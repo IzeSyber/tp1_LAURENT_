@@ -1474,3 +1474,371 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.09.29-20.10.55:085][525]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.09.29-20.13.33:211][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.13.33:211][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.13.33:211][560]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_8
+[2026.09.29-20.13.33:213][560]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.13.33:213][560]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.13.33:213][560]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_8
+[2026.09.29-20.13.33:213][560]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.13.34:627][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.09.29-20.13.34:630][722]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.09.29-20.13.34:633][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.13.34:633][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.13.34:635][722]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_9
+[2026.09.29-20.13.34:635][722]LogStreaming: Display: FlushAsyncLoading(414): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.13.34:635][722]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.13.34:635][722]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_9
+[2026.09.29-20.13.34:635][722]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.15.07:318][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.15.07:318][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.15.07:318][839]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_10
+[2026.09.29-20.15.07:318][839]LogStreaming: Display: FlushAsyncLoading(416): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.15.07:318][839]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.15.07:319][839]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_10
+[2026.09.29-20.15.07:319][839]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.15.08:398][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.09.29-20.15.08:401][961]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.09.29-20.15.08:406][961]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.15.08:406][961]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.15.08:406][961]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_11
+[2026.09.29-20.15.08:406][961]LogStreaming: Display: FlushAsyncLoading(418): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.15.08:407][961]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.15.08:407][961]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_11
+[2026.09.29-20.15.08:407][961]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.15.44:422][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 644.007385
+[2026.09.29-20.15.45:423][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.29-20.15.45:423][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 644.675354, Update Interval: 332.383179
+[2026.09.29-20.16.04:001][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.16.04:001][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.16.04:001][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_12
+[2026.09.29-20.16.04:001][ 31]LogStreaming: Display: FlushAsyncLoading(420): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.16.04:001][ 31]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.16.04:001][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_12
+[2026.09.29-20.16.04:003][ 31]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.16.04:718][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.09.29-20.16.04:720][108]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.09.29-20.16.04:725][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.16.04:725][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.16.04:725][108]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_13
+[2026.09.29-20.16.04:725][108]LogStreaming: Display: FlushAsyncLoading(422): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.16.04:726][108]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.16.04:726][108]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_13
+[2026.09.29-20.16.04:726][108]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.17.48:001][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.17.48:001][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.17.48:003][ 81]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_16
+[2026.09.29-20.17.48:003][ 81]LogStreaming: Display: FlushAsyncLoading(424): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.17.48:003][ 81]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.17.48:003][ 81]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_16
+[2026.09.29-20.17.48:004][ 81]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.17.49:473][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.17.49:473][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.17.49:473][249]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_17
+[2026.09.29-20.17.49:474][249]LogStreaming: Display: FlushAsyncLoading(426): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.17.49:474][249]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.17.49:474][249]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_17
+[2026.09.29-20.17.49:474][249]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.17.50:981][420]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_17.StaticMeshComponent0.
+[2026.09.29-20.18.11:698][826]Cmd: DELETE
+[2026.09.29-20.18.11:698][826]Cmd: ACTOR DELETE
+[2026.09.29-20.18.11:699][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.29-20.18.11:720][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.29-20.18.11:723][826]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.09.29-20.20.34:918][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.20.34:918][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.20.34:918][703]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_18
+[2026.09.29-20.20.34:918][703]LogStreaming: Display: FlushAsyncLoading(428): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.20.34:920][703]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.20.34:920][703]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_18
+[2026.09.29-20.20.34:920][703]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.20.35:497][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.09.29-20.20.35:500][762]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.09.29-20.20.35:503][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.20.35:503][762]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.20.35:505][762]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_19
+[2026.09.29-20.20.35:505][762]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.20.35:505][762]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.20.35:505][762]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_19
+[2026.09.29-20.20.35:505][762]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.21.25:318][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 984.902710
+[2026.09.29-20.21.25:441][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.29-20.21.25:441][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 985.019165, Update Interval: 342.815033
+[2026.09.29-20.21.45:844][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.21.45:844][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.21.45:845][908]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_20
+[2026.09.29-20.21.45:845][908]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.21.45:845][908]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.21.45:845][908]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_20
+[2026.09.29-20.21.45:845][908]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.21.46:464][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.09.29-20.21.46:469][973]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.09.29-20.21.46:472][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.21.46:472][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.21.46:473][973]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_21
+[2026.09.29-20.21.46:473][973]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.21.46:473][973]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.21.46:473][973]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_21
+[2026.09.29-20.21.46:473][973]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.23.50:976][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.09.29-20.23.50:996][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1
+[2026.09.29-20.23.50:998][729]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl_Auto1344A64D949F30231531AA0A8FBD21511.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1.umap'
+[2026.09.29-20.23.50:998][729]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_tp1_lvl' took 0.040
+[2026.09.29-20.23.50:998][729]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2026.09.29-20.24.48:021][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.24.48:021][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.24.48:021][432]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_22
+[2026.09.29-20.24.48:023][432]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.24.48:023][432]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.24.48:023][432]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_22
+[2026.09.29-20.24.48:023][432]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.24.50:167][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.09.29-20.24.50:168][671]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.09.29-20.24.50:171][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.24.50:171][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.24.50:171][671]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_23
+[2026.09.29-20.24.50:173][671]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.24.50:173][671]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.24.50:173][671]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_23
+[2026.09.29-20.24.50:173][671]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.26.56:592][343]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.26.56:592][343]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.26.56:592][343]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_25
+[2026.09.29-20.26.56:592][343]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.26.56:592][343]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.26.56:593][343]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_25
+[2026.09.29-20.26.56:593][343]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.26.57:708][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.09.29-20.26.57:713][470]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.09.29-20.26.57:718][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.26.57:718][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.26.57:718][470]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_26
+[2026.09.29-20.26.57:718][470]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.26.57:719][470]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.26.57:719][470]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_26
+[2026.09.29-20.26.57:719][470]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.27.17:269][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1336.845093
+[2026.09.29-20.27.17:388][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.29-20.27.17:388][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1336.953613, Update Interval: 305.410919
+[2026.09.29-20.28.49:019][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.28.49:019][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.28.49:019][141]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_27
+[2026.09.29-20.28.49:019][141]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.28.49:019][141]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.28.49:021][141]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_27
+[2026.09.29-20.28.49:021][141]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.28.49:765][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.09.29-20.28.49:769][221]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.09.29-20.28.49:772][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.28.49:772][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.29-20.28.49:772][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_28
+[2026.09.29-20.28.49:774][221]LogStreaming: Display: FlushAsyncLoading(446): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.28.49:774][221]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.28.49:774][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_28
+[2026.09.29-20.28.49:774][221]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.28.57:204][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.28.57:204][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.28.57:204][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_29
+[2026.09.29-20.28.57:204][ 32]LogStreaming: Display: FlushAsyncLoading(448): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.28.57:204][ 32]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.28.57:204][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_29
+[2026.09.29-20.28.57:204][ 32]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.28.58:265][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.09.29-20.28.58:268][151]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.09.29-20.28.58:271][151]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.28.58:271][151]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.28.58:272][151]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_30
+[2026.09.29-20.28.58:272][151]LogStreaming: Display: FlushAsyncLoading(450): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.28.58:272][151]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.28.58:272][151]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_30
+[2026.09.29-20.28.58:272][151]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.29.57:474][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.29.57:474][822]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.29.57:474][822]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_31
+[2026.09.29-20.29.57:474][822]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.29.57:475][822]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.29.57:475][822]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_31
+[2026.09.29-20.29.57:475][822]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.29.58:337][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.09.29-20.29.58:340][912]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.09.29-20.29.58:348][912]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.29.58:348][912]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.09.29-20.29.58:350][912]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_32
+[2026.09.29-20.29.58:350][912]LogStreaming: Display: FlushAsyncLoading(454): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.29.58:350][912]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.29.58:350][912]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_32
+[2026.09.29-20.29.58:350][912]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.30.11:792][364]LogStreaming: Display: FlushAsyncLoading(456): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.30.58:223][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.30.58:223][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.30.58:225][847]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_33
+[2026.09.29-20.30.58:225][847]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.30.58:225][847]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.30.58:225][847]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_33
+[2026.09.29-20.30.58:225][847]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.30.59:109][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.09.29-20.30.59:113][944]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.09.29-20.30.59:116][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.30.59:116][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.30.59:118][944]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_34
+[2026.09.29-20.30.59:118][944]LogStreaming: Display: FlushAsyncLoading(459): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.30.59:118][944]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.30.59:118][944]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_34
+[2026.09.29-20.30.59:118][944]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: ================================================
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Total job queries 512, among them cache hits 65 (12.70%), DDC hits 368 (71.88%), Duplicates 67 (13.09%)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Tracking 380 distinct input hashes that result in 279 distinct outputs (73.42%)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: RAM used: 3,64 MiB of 1,60 GiB budget. Usage: 0.22%
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Shaders Compiled: 12
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Average time worker was idle: 916.53 s
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.09 s
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 0.91 s
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 0.99
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Shader code size: total 110,75 KiB, numShaders 15, average 7,383 KiB, min 2,637 KiB, max 13,203 KiB
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.61 s
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Average processing rate: 3.33 jobs/sec
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Total thread time: 5,579 s
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Total thread preprocess time: 4,679 s
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Percentage time preprocessing: 83.87%
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Effective parallelization: 1.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.154648
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.50 sec, max 0.59 sec, min 0.41 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.38 sec, max 0.44 sec, min 0.31 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                                  FVelocityPS - 17.90% of total time (compiled    2 times, average 0.50 sec, max 0.59 sec, min 0.41 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 14.75% of total time (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.52% of total time (compiled    2 times, average 0.38 sec, max 0.44 sec, min 0.31 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.01% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display:                                                  FVelocityVS - 8.91% of total time (compiled    2 times, average 0.25 sec, max 0.25 sec, min 0.24 sec)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: === Material stats ===
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Materials Translated:    145
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Material Translation Only: 0.02 s (33%)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: Material Cache Hits: 16 (11%)
+[2026.09.29-20.32.04:137][566]LogShaderCompilers: Display: ================================================
+[2026.09.29-20.32.45:073][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1664.655151
+[2026.09.29-20.32.45:157][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.29-20.32.45:157][473]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1664.729004, Update Interval: 305.260773
+[2026.09.29-20.33.18:158][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.33.18:158][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.33.18:158][240]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_35
+[2026.09.29-20.33.18:159][240]LogStreaming: Display: FlushAsyncLoading(461): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.33.18:159][240]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.33.18:159][240]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_35
+[2026.09.29-20.33.18:159][240]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.33.18:697][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.09.29-20.33.18:700][295]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.09.29-20.33.18:705][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.33.18:705][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.33.18:706][295]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_36
+[2026.09.29-20.33.18:706][295]LogStreaming: Display: FlushAsyncLoading(463): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.33.18:706][295]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.33.18:706][295]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_36
+[2026.09.29-20.33.18:706][295]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.34.04:545][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.09.29-20.34.04:569][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto2
+[2026.09.29-20.34.04:569][959]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl_Auto23C8C1DF8410DEBCACD5C94A3369619A4.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto2.umap'
+[2026.09.29-20.34.04:571][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_tp1_lvl' took 0.043
+[2026.09.29-20.34.04:571][959]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2026.09.29-20.37.00:217][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.37.00:217][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.37.00:217][341]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_37
+[2026.09.29-20.37.00:218][341]LogStreaming: Display: FlushAsyncLoading(465): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.37.00:218][341]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.37.00:218][341]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_37
+[2026.09.29-20.37.00:218][341]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.37.00:759][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.09.29-20.37.00:762][394]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.09.29-20.37.00:765][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.37.00:765][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.37.00:767][394]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_38
+[2026.09.29-20.37.00:767][394]LogStreaming: Display: FlushAsyncLoading(467): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.37.00:767][394]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.37.00:767][394]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_38
+[2026.09.29-20.37.00:767][394]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.37.09:393][280]LogStreaming: Display: FlushAsyncLoading(469): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: ================================================
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Total job queries 530, among them cache hits 69 (13.02%), DDC hits 381 (71.89%), Duplicates 67 (12.64%)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Tracking 394 distinct input hashes that result in 292 distinct outputs (74.11%)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: RAM used: 3,74 MiB of 1,60 GiB budget. Usage: 0.23%
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Shaders Compiled: 13
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Average time worker was idle: 844.72 s
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.09 s
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 1.22 s
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 1.28
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Shader code size: total 122,43 KiB, numShaders 16, average 7,651 KiB, min 2,637 KiB, max 13,203 KiB
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.88 s
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Average processing rate: 2.66 jobs/sec
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Total thread time: 6,416 s
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Total thread preprocess time: 4,856 s
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Percentage time preprocessing: 75.69%
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.131344
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.83 sec, max 0.84 sec, min 0.82 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.50 sec, max 0.59 sec, min 0.41 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.38 sec, max 0.44 sec, min 0.31 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 25.88% of total time (compiled    2 times, average 0.83 sec, max 0.84 sec, min 0.82 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                                  FVelocityPS - 15.57% of total time (compiled    2 times, average 0.50 sec, max 0.59 sec, min 0.41 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.75% of total time (compiled    2 times, average 0.38 sec, max 0.44 sec, min 0.31 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.44% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display:                                                  FVelocityVS - 7.75% of total time (compiled    2 times, average 0.25 sec, max 0.25 sec, min 0.24 sec)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: === Material stats ===
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Materials Translated:    146
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Material Translation Only: 0.02 s (34%)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: Material Cache Hits: 17 (12%)
+[2026.09.29-20.38.04:396][766]LogShaderCompilers: Display: ================================================
+[2026.09.29-20.38.17:769][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.38.17:769][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.38.17:769][526]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_39
+[2026.09.29-20.38.17:769][526]LogStreaming: Display: FlushAsyncLoading(470): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.38.17:769][526]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.38.17:771][526]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_39
+[2026.09.29-20.38.17:771][526]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.38.18:198][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.09.29-20.38.18:201][566]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.09.29-20.38.18:206][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.38.18:206][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.38.18:206][566]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_40
+[2026.09.29-20.38.18:206][566]LogStreaming: Display: FlushAsyncLoading(472): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.38.18:207][566]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.38.18:207][566]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_40
+[2026.09.29-20.38.18:207][566]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.38.24:353][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2003.943359
+[2026.09.29-20.38.24:447][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.29-20.38.24:447][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2004.026978, Update Interval: 314.533539
+[2026.09.29-20.40.13:677][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.29-20.40.13:741][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.29-20.40.13:762][962]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.09.29-20.40.13:762][962]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl2522CC6E41FF86604D2F338B96FA05D5.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.09.29-20.40.13:768][962]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.058
+[2026.09.29-20.40.13:775][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.618 ms (total: 196.303 ms)
+[2026.09.29-20.40.13:811][962]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.29-20.40.13:811][962]LogContentValidation: Enabled validators:
+[2026.09.29-20.40.13:811][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.29-20.40.13:811][962]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.29-20.40.13:811][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.29-20.40.13:811][962]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.29-20.40.13:811][962]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.29-20.40.13:811][962]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.29-20.40.13:812][962]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
