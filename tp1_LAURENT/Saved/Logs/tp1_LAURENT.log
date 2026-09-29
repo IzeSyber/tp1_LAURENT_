@@ -1291,3 +1291,186 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.29-20.05.14:435][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
 [2026.09.29-20.05.14:441][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
 [2026.09.29-20.05.14:485][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.09.29-20.05.47:055][557]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.09.29-20.05.47:059][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.29-20.05.47:099][557]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.09.29-20.05.47:103][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003939s)
+[2026.09.29-20.05.47:103][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl to /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl (0.003978s)
+[2026.09.29-20.05.47:121][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.09.29-20.05.47:122][557]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_tp1_lvl
+[2026.09.29-20.05.47:124][557]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2026.09.29-20.05.47:125][557]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.09.29-20.05.47:125][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.29-20.05.47:125][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.29-20.05.47:125][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.29-20.05.47:125][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.29-20.05.47:125][557]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.29-20.05.47:125][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.29-20.05.47:125][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.29-20.05.47:125][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.29-20.05.47:125][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.29-20.05.47:125][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.29-20.05.47:125][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.29-20.05.47:127][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.29-20.05.47:136][557]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2026.09.29-20.05.47:136][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.29-20.05.47:136][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.29-20.05.47:136][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.29-20.05.47:136][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.09.29-20.05.47:136][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.09.29-20.05.47:137][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.09.29-20.05.47:137][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.09.29-20.05.47:137][557]LogInit: FAudioDevice initialized with ID 3.
+[2026.09.29-20.05.47:137][557]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_tp1_lvl'.
+[2026.09.29-20.05.47:137][557]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.29-20.05.47:140][557]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.09.29-20.05.47:142][557]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl up for play (max tick rate 0) at 2026.09.29-16.05.47
+[2026.09.29-20.05.47:142][557]LogWorld: Bringing up level for play took: 0.001706
+[2026.09.29-20.05.47:144][557]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.09.29-20.05.47:147][557]PIE: Serveur connecté
+[2026.09.29-20.05.47:150][557]PIE: Play in Editor : temps total de démarrage 0,09 secondes.
+[2026.09.29-20.05.47:179][558]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.29-20.05.51:829][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.29-20.05.51:829][110]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.09.29-20.05.51:829][110]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.09.29-20.05.51:829][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-20.05.51:831][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.29-20.05.51:834][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-20.05.51:851][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.29-20.05.51:852][110]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.29-20.05.51:852][110]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.09.29-20.05.51:854][110]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.09.29-20.05.51:857][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.09.29-20.05.51:909][113]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.09.29-20.06.05:037][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.06.05:037][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.06.05:037][626]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_1
+[2026.09.29-20.06.05:038][626]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.06.05:038][626]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.06.05:038][626]LogUObjectGlobals: Warning: Impossible de trouver l'objet 'Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial'
+[2026.09.29-20.06.05:039][626]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_1
+[2026.09.29-20.06.05:039][626]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.06.05:046][626]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.09.29-20.06.05:852][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.29-20.06.05:854][714]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.09.29-20.06.05:857][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.06.05:857][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.06.05:858][714]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_2
+[2026.09.29-20.06.05:860][714]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.06.05:860][714]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.06.05:860][714]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_2
+[2026.09.29-20.06.05:860][714]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.06.57:954][356]LogDerivedDataCache: C:/Users/6383488/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.09.29-20.07.11:320][811]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.29-20.07.16:456][360]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2026.09.29-20.07.16:456][360]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2026.09.29-20.07.16:457][360]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.TextRenderActor_0
+[2026.09.29-20.07.16:457][360]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.TextRenderActor_0
+[2026.09.29-20.07.16:820][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.09.29-20.07.16:824][396]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.09.29-20.07.16:827][396]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2026.09.29-20.07.16:827][396]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2026.09.29-20.07.16:829][396]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.TextRenderActor_1
+[2026.09.29-20.07.16:829][396]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.TextRenderActor_1
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: ================================================
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Total job queries 497, among them cache hits 61 (12.27%), DDC hits 362 (72.84%), Duplicates 67 (13.48%)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Tracking 369 distinct input hashes that result in 270 distinct outputs (73.17%)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: RAM used: 3,58 MiB of 1,60 GiB budget. Usage: 0.22%
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Shaders Compiled: 7
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Average time worker was idle: 0.52 s
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.01 s
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 0.91 s
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Job life time (pending + execution): average 0.64 s, max 0.91
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Shader code size: total 70,941 KiB, numShaders 9, average 7,882 KiB, min 2,637 KiB, max 13,203 KiB
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.76 s
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Average processing rate: 3.97 jobs/sec
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Total thread time: 2,993 s
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Total thread preprocess time: 4,538 s
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Percentage time preprocessing: 151.60%
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.169778
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 27.50% of total time (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                                  FVelocityPS - 13.71% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 12.99% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.43% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display:                                                  FVelocityVS - 8.47% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: === Material stats ===
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Materials Translated:    143
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Material Total Translate Time: 0.07 s
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Material Translation Only: 0.02 s (34%)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: Material Cache Hits: 16 (11%)
+[2026.09.29-20.08.03:695][810]LogShaderCompilers: Display: ================================================
+[2026.09.29-20.09.05:426][123]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.29-20.09.06:056][192]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.09.29-20.09.12:581][897]Cmd: TRANSACTION UNDO
+[2026.09.29-20.09.12:581][897]LogEditorTransaction: Undo Sélectionner la surface du pinceau
+[2026.09.29-20.09.14:174][ 15]Cmd: DELETE
+[2026.09.29-20.09.14:174][ 15]Cmd: ACTOR DELETE
+[2026.09.29-20.09.14:177][ 15]LogEditorActor: Deleted Actor: Brush
+[2026.09.29-20.09.14:197][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.09.29-20.09.14:215][ 15]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.09.29-20.09.17:112][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.09.17:112][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.09.17:112][330]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_4
+[2026.09.29-20.09.17:112][330]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.09.17:112][330]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.09.17:112][330]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_4
+[2026.09.29-20.09.17:112][330]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.09.17:518][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.29-20.09.17:521][372]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.09.29-20.09.17:524][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.09.17:524][372]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.29-20.09.17:525][372]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_5
+[2026.09.29-20.09.17:525][372]LogStreaming: Display: FlushAsyncLoading(406): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.09.17:525][372]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.09.17:525][372]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_5
+[2026.09.29-20.09.17:525][372]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.10.15:945][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.10.15:945][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.10.15:945][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_6
+[2026.09.29-20.10.15:947][ 53]LogStreaming: Display: FlushAsyncLoading(408): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.10.15:947][ 53]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.10.15:947][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_6
+[2026.09.29-20.10.15:947][ 53]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.10.16:509][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.09.29-20.10.16:512][112]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.09.29-20.10.16:515][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.10.16:515][112]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.29-20.10.16:516][112]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_7
+[2026.09.29-20.10.16:516][112]LogStreaming: Display: FlushAsyncLoading(410): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-20.10.16:516][112]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.10.16:516][112]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_7
+[2026.09.29-20.10.16:518][112]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.6\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Error opening file.
+[2026.09.29-20.10.20:334][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 319.913513
+[2026.09.29-20.10.20:436][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.29-20.10.20:436][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 320.006042, Update Interval: 319.865723
+[2026.09.29-20.10.54:929][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.29-20.10.54:996][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.09.29-20.10.55:015][525]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.09.29-20.10.55:015][525]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl9E1CBFB9489F669D8D7AC39F0E7E7348.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.09.29-20.10.55:022][525]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.054
+[2026.09.29-20.10.55:028][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.685 ms
+[2026.09.29-20.10.55:083][525]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.29-20.10.55:083][525]LogContentValidation: Enabled validators:
+[2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.29-20.10.55:083][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.29-20.10.55:085][525]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
