@@ -1330,3 +1330,6 @@ Autrement, les ressources pourraient être absentes des versions préparées. Co
 [2026.09.29-18.54.00:204][386]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2026.09.29-18.54.02:084][612]LogContentBrowser: Attempting asset rename: NewFolder -> KAYKIT
 [2026.09.29-18.54.02:084][612]LogContentBrowser: End creating deferred item NewFolder
+[2026.09.29-18.57.13:092][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 323.599701
+[2026.09.29-18.57.14:092][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.29-18.57.14:092][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.266388, Update Interval: 325.778381
