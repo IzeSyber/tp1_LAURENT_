@@ -1205,3 +1205,128 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.29-18.52.10:243][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.09.29-18.52.10:243][ 50]AssetCheck: /Game/tp1 Validation de la ressource
 [2026.09.29-18.52.10:263][ 50]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.29-18.52.56:486][519]LogSlate: Window 'Message' being destroyed
+[2026.09.29-18.52.56:489][519]Message dialog closed, result: Cancel, title: Message, text: Le code source, la configuration INI et les fichiers texte pourraient nécessiter la fonctionnalité Chercher/Remplacer pour :
+
+
+tp1
+
+Autrement, les ressources pourraient être absentes des versions préparées. Continuer à renommer ?
+[2026.09.29-18.53.00:244][927]LogObjectTools: Deleting 1 worlds: /Game/tp1.tp1
+[2026.09.29-18.53.00:244][927]LogObjectTools: Currently 3 active worlds: /Game/tp1.tp1, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2026.09.29-18.53.01:723][927]LogSlate: Window 'Impossible de supprimer le niveau' being destroyed
+[2026.09.29-18.53.01:728][927]Message dialog closed, result: Ok, title: Impossible de supprimer le niveau, text: Impossible de supprimer le niveau lorsqu'il est ouvert
+[2026.09.29-18.53.05:758][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.09.29-18.53.05:760][356]LogStreaming: Display: FlushAsyncLoading(399): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-18.53.05:762][356]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.29-18.53.05:763][356]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.29-18.53.05:763][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.29-18.53.05:763][356]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.29-18.53.05:771][356]LogWorldPartition: Display: WorldPartition initialize took 8.341 ms (total: 62.844 ms)
+[2026.09.29-18.53.05:773][356]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.29-18.53.05:773][356]Cmd: MAP LOAD FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.29-18.53.05:782][356]LogWorld: UWorld::CleanupWorld for tp1, bSessionEnded=true, bCleanupResources=true
+[2026.09.29-18.53.05:782][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-18.53.05:799][356]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.29-18.53.05:801][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.09.29-18.53.05:801][356]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.29-18.53.05:801][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-18.53.05:802][356]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.29-18.53.05:817][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.09.29-18.53.05:832][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.29-18.53.05:897][356]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2026.09.29-18.53.05:897][356]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.29-18.53.05:899][356]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.29-18.53.05:899][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.29-18.53.05:899][356]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.29-18.53.05:908][356]LogWorldPartition: Display: WorldPartition initialize took 8.407 ms (total: 71.252 ms)
+[2026.09.29-18.53.05:917][356]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.29-18.53.05:935][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.29-18.53.05:940][356]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.29-18.53.05:941][356]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,477ms pour s'exécuter.
+[2026.09.29-18.53.05:976][356]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.29-18.53.17:731][673]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-18.53.17:733][673]LogChaosDD: Creating Chaos Debug Draw Scene for world tp1
+[2026.09.29-18.53.17:734][673]LogObjectTools: Deleting 1 worlds: /Game/tp1.tp1
+[2026.09.29-18.53.17:734][673]LogObjectTools: Currently 3 active worlds: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2026.09.29-18.53.17:752][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.09.29-18.53.17:856][673]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.09.29-18.53.17:865][673]LogSlate: Took 0.008442 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.09.29-18.53.18:858][673]LogSlate: Window 'Delete Assets' being destroyed
+[2026.09.29-18.53.18:865][673]LogWorld: UWorld::CleanupWorld for tp1, bSessionEnded=true, bCleanupResources=true
+[2026.09.29-18.53.18:867][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-18.53.18:886][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.09.29-18.53.18:901][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.09.29-18.53.18:915][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.09.29-18.53.29:405][893]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-18.53.31:276][893]LogSlate: Window 'Nouveau niveau' being destroyed
+[2026.09.29-18.53.31:282][893]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.29-18.53.31:295][893]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.29-18.53.31:295][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-18.53.31:295][893]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.29-18.53.31:315][893]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.29-18.53.31:317][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.09.29-18.53.31:322][893]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.09.29-18.53.31:322][893]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.09.29-18.53.31:329][893]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.29-18.53.31:346][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.29-18.53.31:347][893]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.29-18.53.31:347][893]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,154ms pour s'exécuter.
+[2026.09.29-18.53.31:363][895]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.29-18.53.46:992][224]LogDerivedDataCache: C:/Users/6383488/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.09.29-18.53.49:592][224]LogSlate: Window 'Enregistrer le niveau sous' being destroyed
+[2026.09.29-18.53.49:688][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.29-18.53.49:700][224]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.09.29-18.53.49:700][224]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvlD061F1244E93F8000A41ADB8F2DA22F4.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.09.29-18.53.49:711][224]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.112
+[2026.09.29-18.53.49:711][224]Cmd: MAP LOAD FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.29-18.53.49:722][224]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.09.29-18.53.49:722][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-18.53.49:739][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.29-18.53.49:739][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.29-18.53.49:740][224]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-18.53.49:742][224]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_tp1_lvl'.
+[2026.09.29-18.53.49:742][224]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_tp1_lvl
+[2026.09.29-18.53.49:751][224]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.29-18.53.49:766][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.09.29-18.53.49:769][224]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.29-18.53.49:769][224]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,047ms pour s'exécuter.
+[2026.09.29-18.53.49:827][224]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.29-18.53.49:827][224]LogContentValidation: Enabled validators:
+[2026.09.29-18.53.49:827][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.29-18.53.49:827][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.29-18.53.49:827][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.29-18.53.49:827][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.29-18.53.49:827][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.29-18.53.49:827][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.29-18.53.49:827][224]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.09.29-18.53.49:844][224]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.29-18.53.49:852][225]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.29-18.53.51:251][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.09.29-18.53.51:253][378]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl
+[2026.09.29-18.53.51:253][378]Cmd: MAP LOAD FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.29-18.53.51:262][378]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.09.29-18.53.51:262][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.29-18.53.51:277][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.29-18.53.51:279][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.09.29-18.53.51:279][378]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.29-18.53.51:280][378]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_tp1_lvl'.
+[2026.09.29-18.53.51:280][378]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_tp1_lvl
+[2026.09.29-18.53.51:289][378]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.29-18.53.51:306][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.09.29-18.53.51:309][378]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.29-18.53.51:309][378]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,048ms pour s'exécuter.
+[2026.09.29-18.53.51:318][378]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.29-18.54.00:183][385]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.09.29-18.54.00:197][385]LogContentBrowser: Creating deferred item: NewFolder
+[2026.09.29-18.54.00:204][386]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.09.29-18.54.02:084][612]LogContentBrowser: Attempting asset rename: NewFolder -> KAYKIT
+[2026.09.29-18.54.02:084][612]LogContentBrowser: End creating deferred item NewFolder
