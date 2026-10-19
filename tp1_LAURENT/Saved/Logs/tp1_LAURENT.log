@@ -1977,3 +1977,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.19-23.15.21:501][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
 [2026.10.19-23.15.21:508][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
 [2026.10.19-23.15.21:541][966]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.10.19-23.15.47:899][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.10.19-23.15.47:953][113]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1
+[2026.10.19-23.15.47:954][113]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl_Auto1717EC3084E11A21F9F3DD19471A3C516.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1.umap'
+[2026.10.19-23.15.47:956][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_tp1_lvl' took 0.075
+[2026.10.19-23.15.47:956][113]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2026.10.19-23.15.50:856][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.19-23.15.50:928][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.10.19-23.15.50:978][221]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.10.19-23.15.50:978][221]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvlEBC026984110F3142AF228A53C3DAD8F.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.10.19-23.15.50:986][221]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.086
+[2026.10.19-23.15.50:995][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.124 ms
+[2026.10.19-23.15.51:052][221]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.19-23.15.51:052][221]LogContentValidation: Enabled validators:
+[2026.10.19-23.15.51:052][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.19-23.15.51:052][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.19-23.15.51:052][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.19-23.15.51:052][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.19-23.15.51:052][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.19-23.15.51:052][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.19-23.15.51:052][221]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
