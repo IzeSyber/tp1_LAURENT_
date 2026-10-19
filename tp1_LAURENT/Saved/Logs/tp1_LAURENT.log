@@ -1615,3 +1615,54 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.19-05.03.53:442][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.10.19-05.03.53:443][884]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
 [2026.10.19-05.03.53:464][884]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Syb/OneDrive/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.19-05.04.43:146][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9081.230469
+[2026.10.19-05.04.44:145][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.19-05.04.44:145][107]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9081.897461, Update Interval: 308.130127
+[2026.10.19-05.09.56:616][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.10.19-05.09.56:673][ 53]LogStall: Shutdown...
+[2026.10.19-05.09.56:673][ 53]LogStall: Shutdown complete.
+[2026.10.19-05.09.56:731][ 53]LogSlate: Window 'tp1_LAURENT - Unreal Editor' being destroyed
+[2026.10.19-05.09.56:856][ 53]Cmd: QUIT_EDITOR
+[2026.10.19-05.09.56:857][ 54]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.19-05.09.56:862][ 54]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.19-05.09.56:863][ 54]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.19-05.09.56:863][ 54]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.19-05.09.56:872][ 54]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-05.09.56:872][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-05.09.56:884][ 54]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.10.19-05.09.56:884][ 54]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.19-05.09.56:884][ 54]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.19-05.09.56:890][ 54]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-05.09.56:890][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-05.09.56:891][ 54]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.19-05.09.56:891][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.19-05.09.56:892][ 54]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.19-05.09.56:892][ 54]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.10.19-05.09.56:903][ 54]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.19-05.09.56:905][ 54]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.10.19-05.09.56:905][ 54]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.19-05.09.56:905][ 54]LogAudio: Display: Audio Device unregistered from world 'Lvl_tp1_lvl'.
+[2026.10.19-05.09.56:905][ 54]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.19-05.09.56:905][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.10.19-05.09.56:909][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.10.19-05.09.56:924][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.19-05.09.56:924][ 54]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.19-05.09.56:926][ 54]LogWindowsTextInputMethodSystem: Activated input method: Français (Canada) - (Keyboard).
+[2026.10.19-05.09.56:929][ 54]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.19-05.09.56:929][ 54]LogExit: Preparing to exit.
+[2026.10.19-05.09.56:989][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.10.19-05.09.57:684][ 54]LogEditorDataStorage: Deinitializing
+[2026.10.19-05.09.57:856][ 54]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.19-05.09.57:898][ 54]LogExit: Editor shut down
+[2026.10.19-05.09.57:906][ 54]LogExit: Transaction tracking system shut down
+[2026.10.19-05.09.58:178][ 54]LogExit: Object subsystem successfully closed.
+[2026.10.19-05.09.58:268][ 54]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.10.19-05.09.58:389][ 54]LogMemoryProfiler: Shutdown
+[2026.10.19-05.09.58:389][ 54]LogNetworkingProfiler: Shutdown
+[2026.10.19-05.09.58:389][ 54]LoadingProfiler: Shutdown
+[2026.10.19-05.09.58:389][ 54]LogTimingProfiler: Shutdown
+[2026.10.19-05.09.58:390][ 54]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.19-05.09.58:390][ 54]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.19-05.09.58:798][ 54]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.19-05.09.58:808][ 54]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.19-05.09.58:808][ 54]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B14059D2B-42D7-E427-FAA6-9BA77BD25D9D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3cf365144d4f1f6c18bfb98bff3b27c4%7Cad52e75d04cf4552a8d380ac46b2521a%7C3e731c90-8d14-4981-9f6b-6fa72e92e5c5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
