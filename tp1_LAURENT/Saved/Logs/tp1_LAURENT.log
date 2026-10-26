@@ -1826,3 +1826,53 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.26-22.52.24:007][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1066.910034
 [2026.10.26-22.52.24:082][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.26-22.52.24:082][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1066.976562, Update Interval: 318.214050
+[2026.10.26-22.56.04:930][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.10.26-22.56.04:998][232]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1
+[2026.10.26-22.56.04:998][232]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl_Auto13E0F36334F72E4992F511387148FA45D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1.umap'
+[2026.10.26-22.56.05:001][232]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_tp1_lvl' took 0.096
+[2026.10.26-22.56.05:001][232]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2026.10.26-22.57.53:476][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1396.391846
+[2026.10.26-22.57.53:567][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.26-22.57.53:568][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1396.473145, Update Interval: 336.316406
+[2026.10.26-22.58.53:456][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.26-22.58.53:456][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.26-22.58.53:456][748]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_507
+[2026.10.26-22.58.53:457][748]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_507
+[2026.10.26-22.58.54:355][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.10.26-22.58.54:359][834]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.10.26-22.58.54:363][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.26-22.58.54:363][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.10.26-22.58.54:364][834]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_508
+[2026.10.26-22.58.54:364][834]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_508
+[2026.10.26-23.00.29:311][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.10.26-23.00.29:311][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.10.26-23.00.29:312][776]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_509
+[2026.10.26-23.00.29:312][776]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_509
+[2026.10.26-23.00.30:152][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.10.26-23.00.30:156][857]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.10.26-23.00.30:160][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.10.26-23.00.30:160][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.10.26-23.00.30:161][857]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_510
+[2026.10.26-23.00.30:161][857]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.StaticMeshActor_510
+[2026.10.26-23.01.40:909][929]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/fr/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2026.10.26-23.02.20:612][ 83]Cmd: TRANSACTION UNDO
+[2026.10.26-23.02.20:612][ 83]LogEditorTransaction: Undo Renommer un acteur
+[2026.10.26-23.02.21:890][168]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/fr/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2026.10.26-23.03.35:133][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.26-23.03.35:233][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.10.26-23.03.35:292][673]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.10.26-23.03.35:292][673]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvlC9D0557B42F60ADFE0EB21BCCF698FFC.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.10.26-23.03.35:304][673]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.109
+[2026.10.26-23.03.35:316][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.111 ms
+[2026.10.26-23.03.35:377][673]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.26-23.03.35:377][673]LogContentValidation: Enabled validators:
+[2026.10.26-23.03.35:377][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.26-23.03.35:377][673]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.26-23.03.35:377][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.26-23.03.35:377][673]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.26-23.03.35:377][673]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.26-23.03.35:377][673]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.26-23.03.35:378][673]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.10.26-23.03.49:177][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1752.102173
+[2026.10.26-23.03.50:177][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.26-23.03.50:177][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1752.769043, Update Interval: 320.995514
