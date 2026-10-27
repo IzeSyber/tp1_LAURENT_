@@ -5111,3 +5111,497 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.10.27-21.27.20:407][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5417.035156
 [2026.10.27-21.27.21:410][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.27-21.27.21:410][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5417.704102, Update Interval: 358.198181
+[2026.10.27-21.27.49:098][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.10.27-21.27.50:505][586]LogSlate: Window 'Save Content' being destroyed
+[2026.10.27-21.27.50:518][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.27-21.27.50:555][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Ballista_Bolt/Ballista_Bolt] ([1] browsable assets)...
+[2026.10.27-21.27.50:555][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Ballista_Bolt/Ballista_Bolt]
+[2026.10.27-21.27.50:565][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Ballista_Bolt/Ballista_Bolt
+[2026.10.27-21.27.50:565][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Ballista_Bolt2F9103ED4072B7ED4BD7158940CAE3EB.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Ballista_Bolt/Ballista_Bolt.uasset'
+[2026.10.27-21.27.50:566][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Barbarian/Barbarian_PhysicsAsset] ([1] browsable assets)...
+[2026.10.27-21.27.50:566][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Barbarian/Barbarian_PhysicsAsset]
+[2026.10.27-21.27.50:577][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Barbarian/Barbarian_PhysicsAsset
+[2026.10.27-21.27.50:577][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Barbarian_PhysicsAsset82A342CF43B6590FD31F389B754A7663.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Barbarian/Barbarian_PhysicsAsset.uasset'
+[2026.10.27-21.27.50:580][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Barbarian/Barbarian_Skeleton_PoseAsset] ([1] browsable assets)...
+[2026.10.27-21.27.50:580][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Barbarian/Barbarian_Skeleton_PoseAsset]
+[2026.10.27-21.27.50:586][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Barbarian/Barbarian_Skeleton_PoseAsset
+[2026.10.27-21.27.50:586][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Barbarian_Skeleton_PoseAsset362FEC5B4E378DBDD223AEBBC3D5BB91.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Barbarian/Barbarian_Skeleton_PoseAsset.uasset'
+[2026.10.27-21.27.50:589][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Fuel_A_Barrel_Dirty/Fuel_A_Barrel_Dirty] ([1] browsable assets)...
+[2026.10.27-21.27.50:589][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Fuel_A_Barrel_Dirty/Fuel_A_Barrel_Dirty]
+[2026.10.27-21.27.50:597][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Fuel_A_Barrel_Dirty/Fuel_A_Barrel_Dirty
+[2026.10.27-21.27.50:597][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Fuel_A_Barrel_Dirty28120DA04CA78182349B1789AE25CD7C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Fuel_A_Barrel_Dirty/Fuel_A_Barrel_Dirty.uasset'
+[2026.10.27-21.27.50:598][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Gold_Bars_Stack_Small/Gold_Bars_Stack_Small] ([1] browsable assets)...
+[2026.10.27-21.27.50:598][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Gold_Bars_Stack_Small/Gold_Bars_Stack_Small]
+[2026.10.27-21.27.50:608][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Gold_Bars_Stack_Small/Gold_Bars_Stack_Small
+[2026.10.27-21.27.50:608][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Gold_Bars_Stack_Small03954ACF46DCD85C6E837381F53965A2.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Gold_Bars_Stack_Small/Gold_Bars_Stack_Small.uasset'
+[2026.10.27-21.27.50:609][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Gold_Nugget_Medium/Gold_Nugget_Medium] ([1] browsable assets)...
+[2026.10.27-21.27.50:609][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Gold_Nugget_Medium/Gold_Nugget_Medium]
+[2026.10.27-21.27.50:615][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Gold_Nugget_Medium/Gold_Nugget_Medium
+[2026.10.27-21.27.50:615][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Gold_Nugget_MediumB73C6D1E4DAB1536A74B48BD62EFDD60.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Gold_Nugget_Medium/Gold_Nugget_Medium.uasset'
+[2026.10.27-21.27.50:618][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Knight/Knight1] ([1] browsable assets)...
+[2026.10.27-21.27.50:618][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Knight/Knight1]
+[2026.10.27-21.27.50:618][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Knight/Knight1" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/Knight1.uasset" SILENT=true
+[2026.10.27-21.27.50:631][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Knight/Knight1
+[2026.10.27-21.27.50:631][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Knight18801360B421975D6FB8FF9B00095F421.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/Knight1.uasset'
+[2026.10.27-21.27.50:648][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Knight/Knight_PhysicsAsset] ([1] browsable assets)...
+[2026.10.27-21.27.50:648][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Knight/Knight_PhysicsAsset]
+[2026.10.27-21.27.50:657][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Knight/Knight_PhysicsAsset
+[2026.10.27-21.27.50:657][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Knight_PhysicsAsset86630C5D4AE20614F9C89E989B0E0CB6.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/Knight_PhysicsAsset.uasset'
+[2026.10.27-21.27.50:672][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Knight/Knight_Skeleton] ([1] browsable assets)...
+[2026.10.27-21.27.50:672][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Knight/Knight_Skeleton]
+[2026.10.27-21.27.50:672][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Knight/Knight_Skeleton" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/Knight_Skeleton.uasset" SILENT=true
+[2026.10.27-21.27.50:679][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Knight/Knight_Skeleton
+[2026.10.27-21.27.50:679][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Knight_Skeleton8E58BC0A46D613C73CC1A284D6FD13EF.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/Knight_Skeleton.uasset'
+[2026.10.27-21.27.50:694][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Ballista_Bolt/M_Bolt_Binding] ([1] browsable assets)...
+[2026.10.27-21.27.50:694][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Ballista_Bolt/M_Bolt_Binding]
+[2026.10.27-21.27.50:701][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Ballista_Bolt/M_Bolt_Binding
+[2026.10.27-21.27.50:701][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/M_Bolt_BindingFA6BFF5A4D8F1E167D126E9A54248050.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Ballista_Bolt/M_Bolt_Binding.uasset'
+[2026.10.27-21.27.50:702][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Ballista_Bolt/M_Bolt_Fletching] ([1] browsable assets)...
+[2026.10.27-21.27.50:702][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Ballista_Bolt/M_Bolt_Fletching]
+[2026.10.27-21.27.50:711][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Ballista_Bolt/M_Bolt_Fletching
+[2026.10.27-21.27.50:711][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/M_Bolt_FletchingB014DC7E4314767FC2A10D81FDCFC83D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Ballista_Bolt/M_Bolt_Fletching.uasset'
+[2026.10.27-21.27.50:711][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Ballista_Bolt/M_Steel] ([1] browsable assets)...
+[2026.10.27-21.27.50:711][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Ballista_Bolt/M_Steel]
+[2026.10.27-21.27.50:711][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Ballista_Bolt/M_Steel" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Ballista_Bolt/M_Steel.uasset" SILENT=true
+[2026.10.27-21.27.50:719][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Ballista_Bolt/M_Steel
+[2026.10.27-21.27.50:719][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/M_SteelF086C7D6469B0B882C4494B1EC2813B0.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Ballista_Bolt/M_Steel.uasset'
+[2026.10.27-21.27.50:719][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Ballista_Bolt/M_Wood] ([1] browsable assets)...
+[2026.10.27-21.27.50:719][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Ballista_Bolt/M_Wood]
+[2026.10.27-21.27.50:719][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Ballista_Bolt/M_Wood" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Ballista_Bolt/M_Wood.uasset" SILENT=true
+[2026.10.27-21.27.50:727][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Ballista_Bolt/M_Wood
+[2026.10.27-21.27.50:727][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/M_Wood2758D6B042ECEF4CC6C0F280A9ACB37F.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Ballista_Bolt/M_Wood.uasset'
+[2026.10.27-21.27.50:727][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Mage/Mage_PhysicsAsset] ([1] browsable assets)...
+[2026.10.27-21.27.50:727][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Mage/Mage_PhysicsAsset]
+[2026.10.27-21.27.50:727][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Mage/Mage_PhysicsAsset" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/Mage_PhysicsAsset.uasset" SILENT=true
+[2026.10.27-21.27.50:736][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Mage/Mage_PhysicsAsset
+[2026.10.27-21.27.50:736][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Mage_PhysicsAsset6CAC69CA48EDFD1752C275BD61E605B0.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/Mage_PhysicsAsset.uasset'
+[2026.10.27-21.27.50:763][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Mage/Mage_Skeleton] ([1] browsable assets)...
+[2026.10.27-21.27.50:763][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Mage/Mage_Skeleton]
+[2026.10.27-21.27.50:763][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Mage/Mage_Skeleton" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/Mage_Skeleton.uasset" SILENT=true
+[2026.10.27-21.27.50:771][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Mage/Mage_Skeleton
+[2026.10.27-21.27.50:771][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Mage_Skeleton8EDCB6B646C2F7CDF7874D9E00D70F4B.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/Mage_Skeleton.uasset'
+[2026.10.27-21.27.50:796][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue/Rogue1] ([1] browsable assets)...
+[2026.10.27-21.27.50:796][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue/Rogue1]
+[2026.10.27-21.27.50:796][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Rogue/Rogue1" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/Rogue1.uasset" SILENT=true
+[2026.10.27-21.27.50:812][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue/Rogue1
+[2026.10.27-21.27.50:812][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rogue13936BF8F4968E8FF89F15390E8AAE741.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/Rogue1.uasset'
+[2026.10.27-21.27.50:815][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue_Hooded/Rogue_Hooded] ([1] browsable assets)...
+[2026.10.27-21.27.50:815][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue_Hooded/Rogue_Hooded]
+[2026.10.27-21.27.50:830][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue_Hooded/Rogue_Hooded
+[2026.10.27-21.27.50:830][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rogue_Hooded689C09794B2414267EADA1A63B1F845F.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue_Hooded/Rogue_Hooded.uasset'
+[2026.10.27-21.27.50:888][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_PhysicsAsset] ([1] browsable assets)...
+[2026.10.27-21.27.50:888][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_PhysicsAsset]
+[2026.10.27-21.27.50:901][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_PhysicsAsset
+[2026.10.27-21.27.50:901][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rogue_Hooded_PhysicsAssetA9CF645A4DF139F485D6D9AD0AAC502C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue_Hooded/Rogue_Hooded_PhysicsAsset.uasset'
+[2026.10.27-21.27.50:959][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_Skeleton] ([1] browsable assets)...
+[2026.10.27-21.27.50:959][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_Skeleton]
+[2026.10.27-21.27.50:967][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_Skeleton
+[2026.10.27-21.27.50:967][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rogue_Hooded_SkeletonECFB2CD74FF499D6A3BF0E8F8E64F444.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue_Hooded/Rogue_Hooded_Skeleton.uasset'
+[2026.10.27-21.27.51:026][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue/Rogue_PhysicsAsset] ([1] browsable assets)...
+[2026.10.27-21.27.51:026][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue/Rogue_PhysicsAsset]
+[2026.10.27-21.27.51:035][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue/Rogue_PhysicsAsset
+[2026.10.27-21.27.51:035][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rogue_PhysicsAsset71BC45704EAFDCCE5C32A4B4025D0DA4.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/Rogue_PhysicsAsset.uasset'
+[2026.10.27-21.27.51:037][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue/Rogue_Skeleton_Sequence] ([1] browsable assets)...
+[2026.10.27-21.27.51:037][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue/Rogue_Skeleton_Sequence]
+[2026.10.27-21.27.51:046][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue/Rogue_Skeleton_Sequence
+[2026.10.27-21.27.51:046][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rogue_Skeleton_SequenceF668CF914D6DE8E284408A9386F305C7.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/Rogue_Skeleton_Sequence.uasset'
+[2026.10.27-21.27.51:047][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Knight/StaticMesh] ([1] browsable assets)...
+[2026.10.27-21.27.51:047][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Knight/StaticMesh]
+[2026.10.27-21.27.51:047][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Knight/StaticMesh" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/StaticMesh.uasset" SILENT=true
+[2026.10.27-21.27.51:059][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Knight/StaticMesh
+[2026.10.27-21.27.51:059][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/StaticMesh56DEF04F4ED8CE9C67179C946D20D111.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/StaticMesh.uasset'
+[2026.10.27-21.27.51:059][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Mage/StaticMesh] ([1] browsable assets)...
+[2026.10.27-21.27.51:059][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Mage/StaticMesh]
+[2026.10.27-21.27.51:059][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Mage/StaticMesh" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/StaticMesh.uasset" SILENT=true
+[2026.10.27-21.27.51:070][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Mage/StaticMesh
+[2026.10.27-21.27.51:071][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/StaticMeshB425C916454C08E0386E20BC8A1467E3.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/StaticMesh.uasset'
+[2026.10.27-21.27.51:071][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue_Hooded/StaticMesh] ([1] browsable assets)...
+[2026.10.27-21.27.51:071][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue_Hooded/StaticMesh]
+[2026.10.27-21.27.51:081][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue_Hooded/StaticMesh
+[2026.10.27-21.27.51:081][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/StaticMesh8406736643E2C17A2D797A9DCF818946.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue_Hooded/StaticMesh.uasset'
+[2026.10.27-21.27.51:082][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Tree_3_A_Color1/Tree_3_A_Color1] ([1] browsable assets)...
+[2026.10.27-21.27.51:082][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Tree_3_A_Color1/Tree_3_A_Color1]
+[2026.10.27-21.27.51:091][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Tree_3_A_Color1/Tree_3_A_Color1
+[2026.10.27-21.27.51:091][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Tree_3_A_Color1B68AF11542ECA5DC01BB8A8FF70C5AD9.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Tree_3_A_Color1/Tree_3_A_Color1.uasset'
+[2026.10.27-21.27.51:093][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/axe/axe] ([1] browsable assets)...
+[2026.10.27-21.27.51:093][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/axe/axe]
+[2026.10.27-21.27.51:093][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/axe/axe" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/axe/axe.uasset" SILENT=true
+[2026.10.27-21.27.51:101][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/axe/axe
+[2026.10.27-21.27.51:101][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/axe7E9561D44C6FA1C658ABF590D81B702C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/axe/axe.uasset'
+[2026.10.27-21.27.51:102][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Barbarian/barbarian] ([1] browsable assets)...
+[2026.10.27-21.27.51:102][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Barbarian/barbarian]
+[2026.10.27-21.27.51:102][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Barbarian/barbarian" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Barbarian/barbarian.uasset" SILENT=true
+[2026.10.27-21.27.51:108][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Barbarian/barbarian
+[2026.10.27-21.27.51:108][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/barbarianFF5122C94BA84FAAB3B5F8BBE3A2CDD7.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Barbarian/barbarian.uasset'
+[2026.10.27-21.27.51:109][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Barbarian/barbarian_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:109][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Barbarian/barbarian_texture]
+[2026.10.27-21.27.51:121][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Barbarian/barbarian_texture
+[2026.10.27-21.27.51:121][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/barbarian_texture532FB9814CCF1BD7D90CC1B200FD888D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Barbarian/barbarian_texture.uasset'
+[2026.10.27-21.27.51:121][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/tower-round-build-a/colormap] ([1] browsable assets)...
+[2026.10.27-21.27.51:121][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/tower-round-build-a/colormap]
+[2026.10.27-21.27.51:131][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/tower-round-build-a/colormap
+[2026.10.27-21.27.51:131][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/colormap70BC7E6F430A438F0F216EB50BA9B949.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/tower-round-build-a/colormap.uasset'
+[2026.10.27-21.27.51:133][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/tower-round-build-f/colormap] ([1] browsable assets)...
+[2026.10.27-21.27.51:133][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/tower-round-build-f/colormap]
+[2026.10.27-21.27.51:143][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/tower-round-build-f/colormap
+[2026.10.27-21.27.51:143][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/colormap9C79F87E419AFAA4DCA6E49EF3CC8821.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/tower-round-build-f/colormap.uasset'
+[2026.10.27-21.27.51:143][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wood-structure-high-part/colormap] ([1] browsable assets)...
+[2026.10.27-21.27.51:143][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wood-structure-high-part/colormap]
+[2026.10.27-21.27.51:153][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/wood-structure-high-part/colormap
+[2026.10.27-21.27.51:153][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/colormapBE16FBBF4A17A7C73385FA8F6C5EFA3F.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/wood-structure-high-part/colormap.uasset'
+[2026.10.27-21.27.51:155][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/tower-round-build-a/colormap1] ([1] browsable assets)...
+[2026.10.27-21.27.51:155][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/tower-round-build-a/colormap1]
+[2026.10.27-21.27.51:162][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/tower-round-build-a/colormap1
+[2026.10.27-21.27.51:162][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/colormap15E7A7DE14493D00BD18CBE8522E3B107.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/tower-round-build-a/colormap1.uasset'
+[2026.10.27-21.27.51:164][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/tower-round-build-f/colormap1] ([1] browsable assets)...
+[2026.10.27-21.27.51:164][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/tower-round-build-f/colormap1]
+[2026.10.27-21.27.51:171][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/tower-round-build-f/colormap1
+[2026.10.27-21.27.51:171][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/colormap175C2B90148D17FDCC4A8AFB2395135A4.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/tower-round-build-f/colormap1.uasset'
+[2026.10.27-21.27.51:172][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wood-structure-high-part/colormap1] ([1] browsable assets)...
+[2026.10.27-21.27.51:172][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wood-structure-high-part/colormap1]
+[2026.10.27-21.27.51:183][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/wood-structure-high-part/colormap1
+[2026.10.27-21.27.51:183][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/colormap17845E722471C1FB2BBE244B2776845E0.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/wood-structure-high-part/colormap1.uasset'
+[2026.10.27-21.27.51:183][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/torch_lit/dungeon_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:183][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/torch_lit/dungeon_texture]
+[2026.10.27-21.27.51:194][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/torch_lit/dungeon_texture
+[2026.10.27-21.27.51:195][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture6C25AAA041DC82370AB5B3AD39A1C1DD.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/torch_lit/dungeon_texture.uasset'
+[2026.10.27-21.27.51:195][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Tree_3_A_Color1/forest] ([1] browsable assets)...
+[2026.10.27-21.27.51:195][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Tree_3_A_Color1/forest]
+[2026.10.27-21.27.51:195][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Tree_3_A_Color1/forest" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Tree_3_A_Color1/forest.uasset" SILENT=true
+[2026.10.27-21.27.51:203][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Tree_3_A_Color1/forest
+[2026.10.27-21.27.51:203][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/forest8D15BA1E4DB50A15E59F74A487B45667.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Tree_3_A_Color1/forest.uasset'
+[2026.10.27-21.27.51:203][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Tree_3_A_Color1/forest_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:203][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Tree_3_A_Color1/forest_texture]
+[2026.10.27-21.27.51:215][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Tree_3_A_Color1/forest_texture
+[2026.10.27-21.27.51:215][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/forest_texture8A2CF99A43298266D7DEA4A3D7495E2C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Tree_3_A_Color1/forest_texture.uasset'
+[2026.10.27-21.27.51:216][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Tree_3_A_Color1/forest_texture_Mat] ([1] browsable assets)...
+[2026.10.27-21.27.51:216][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Tree_3_A_Color1/forest_texture_Mat]
+[2026.10.27-21.27.51:224][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Tree_3_A_Color1/forest_texture_Mat
+[2026.10.27-21.27.51:224][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/forest_texture_Mat919A331C4D589E78FFDE1286AE9B10A9.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Tree_3_A_Color1/forest_texture_Mat.uasset'
+[2026.10.27-21.27.51:224][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/journal_open/journal_open] ([1] browsable assets)...
+[2026.10.27-21.27.51:224][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/journal_open/journal_open]
+[2026.10.27-21.27.51:231][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/journal_open/journal_open
+[2026.10.27-21.27.51:231][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/journal_openA33EDEA3454C4CA04FE7129876B12F15.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/journal_open/journal_open.uasset'
+[2026.10.27-21.27.51:233][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Knight/knight] ([1] browsable assets)...
+[2026.10.27-21.27.51:233][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Knight/knight]
+[2026.10.27-21.27.51:233][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Knight/knight" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/knight.uasset" SILENT=true
+[2026.10.27-21.27.51:239][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Knight/knight
+[2026.10.27-21.27.51:239][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/knightCD46344A47CC9B407EAF998E312088F8.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/knight.uasset'
+[2026.10.27-21.27.51:241][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Knight/knight_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:241][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Knight/knight_texture]
+[2026.10.27-21.27.51:241][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Knight/knight_texture" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/knight_texture.uasset" SILENT=true
+[2026.10.27-21.27.51:249][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Knight/knight_texture
+[2026.10.27-21.27.51:251][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/knight_texture9C9D68364CAAE21ECC50B8B48401B95E.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Knight/knight_texture.uasset'
+[2026.10.27-21.27.51:252][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Mage/mage] ([1] browsable assets)...
+[2026.10.27-21.27.51:252][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Mage/mage]
+[2026.10.27-21.27.51:252][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Mage/mage" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/mage.uasset" SILENT=true
+[2026.10.27-21.27.51:260][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Mage/mage
+[2026.10.27-21.27.51:260][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/mage6C94A5294DFB0D6E5941C681CCFEEABC.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/mage.uasset'
+[2026.10.27-21.27.51:261][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Mage/mage_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:261][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Mage/mage_texture]
+[2026.10.27-21.27.51:261][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Mage/mage_texture" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/mage_texture.uasset" SILENT=true
+[2026.10.27-21.27.51:272][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Mage/mage_texture
+[2026.10.27-21.27.51:272][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/mage_textureF700255F4A00B64FD65AD48934C5A931.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Mage/mage_texture.uasset'
+[2026.10.27-21.27.51:274][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/pickaxe/pickaxe] ([1] browsable assets)...
+[2026.10.27-21.27.51:274][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/pickaxe/pickaxe]
+[2026.10.27-21.27.51:274][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/pickaxe/pickaxe" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/pickaxe/pickaxe.uasset" SILENT=true
+[2026.10.27-21.27.51:281][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/pickaxe/pickaxe
+[2026.10.27-21.27.51:281][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/pickaxe1F298A8E4A72FB892D35F0AB2A51EF6C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/pickaxe/pickaxe.uasset'
+[2026.10.27-21.27.51:284][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Fuel_A_Barrel_Dirty/resource] ([1] browsable assets)...
+[2026.10.27-21.27.51:284][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Fuel_A_Barrel_Dirty/resource]
+[2026.10.27-21.27.51:291][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Fuel_A_Barrel_Dirty/resource
+[2026.10.27-21.27.51:291][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/resourceEC050CFF4F49279D9D03E8A1B2F19E48.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Fuel_A_Barrel_Dirty/resource.uasset'
+[2026.10.27-21.27.51:293][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Gold_Bars_Stack_Small/resource] ([1] browsable assets)...
+[2026.10.27-21.27.51:293][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Gold_Bars_Stack_Small/resource]
+[2026.10.27-21.27.51:299][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Gold_Bars_Stack_Small/resource
+[2026.10.27-21.27.51:299][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/resourceD7C866F6445BCB2D67E3AEB2B4492217.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Gold_Bars_Stack_Small/resource.uasset'
+[2026.10.27-21.27.51:301][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Gold_Nugget_Medium/resource] ([1] browsable assets)...
+[2026.10.27-21.27.51:301][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Gold_Nugget_Medium/resource]
+[2026.10.27-21.27.51:308][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Gold_Nugget_Medium/resource
+[2026.10.27-21.27.51:308][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/resourceEB92224342358C8C454ACDBA0927E193.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Gold_Nugget_Medium/resource.uasset'
+[2026.10.27-21.27.51:309][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Fuel_A_Barrel_Dirty/resource_bits_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:309][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Fuel_A_Barrel_Dirty/resource_bits_texture]
+[2026.10.27-21.27.51:320][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Fuel_A_Barrel_Dirty/resource_bits_texture
+[2026.10.27-21.27.51:320][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/resource_bits_texture23F6428143612692C10BCF9B504B4D52.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Fuel_A_Barrel_Dirty/resource_bits_texture.uasset'
+[2026.10.27-21.27.51:321][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Gold_Bars_Stack_Small/resource_bits_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:321][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Gold_Bars_Stack_Small/resource_bits_texture]
+[2026.10.27-21.27.51:331][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Gold_Bars_Stack_Small/resource_bits_texture
+[2026.10.27-21.27.51:331][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/resource_bits_textureAA8510EB4D0C1EA104BE928177AA5476.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Gold_Bars_Stack_Small/resource_bits_texture.uasset'
+[2026.10.27-21.27.51:333][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Gold_Nugget_Medium/resource_bits_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:333][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Gold_Nugget_Medium/resource_bits_texture]
+[2026.10.27-21.27.51:343][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Gold_Nugget_Medium/resource_bits_texture
+[2026.10.27-21.27.51:343][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/resource_bits_texture6EBCE52A48B8B4D420270B984F63F61C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Gold_Nugget_Medium/resource_bits_texture.uasset'
+[2026.10.27-21.27.51:345][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue/rogue] ([1] browsable assets)...
+[2026.10.27-21.27.51:345][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue/rogue]
+[2026.10.27-21.27.51:345][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Rogue/rogue" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/rogue.uasset" SILENT=true
+[2026.10.27-21.27.51:352][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue/rogue
+[2026.10.27-21.27.51:352][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/rogue8934892347A932C481F540809BC4E129.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/rogue.uasset'
+[2026.10.27-21.27.51:354][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue_Hooded/rogue] ([1] browsable assets)...
+[2026.10.27-21.27.51:354][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue_Hooded/rogue]
+[2026.10.27-21.27.51:354][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Rogue_Hooded/rogue" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue_Hooded/rogue.uasset" SILENT=true
+[2026.10.27-21.27.51:360][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue_Hooded/rogue
+[2026.10.27-21.27.51:360][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/rogue8A045284405E40380F91EDA81FEE690E.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue_Hooded/rogue.uasset'
+[2026.10.27-21.27.51:362][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue/rogue_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:362][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue/rogue_texture]
+[2026.10.27-21.27.51:362][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/Rogue/rogue_texture" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/rogue_texture.uasset" SILENT=true
+[2026.10.27-21.27.51:372][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue/rogue_texture
+[2026.10.27-21.27.51:372][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/rogue_texture3774C7824A64A44525537D94D9BCDBB2.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue/rogue_texture.uasset'
+[2026.10.27-21.27.51:374][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rogue_Hooded/rogue_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:374][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rogue_Hooded/rogue_texture]
+[2026.10.27-21.27.51:385][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/Rogue_Hooded/rogue_texture
+[2026.10.27-21.27.51:385][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/rogue_texture164C71934A3959DF41B9E5874B8FD4AC.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/Rogue_Hooded/rogue_texture.uasset'
+[2026.10.27-21.27.51:386][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/torch_lit/texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:386][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/torch_lit/texture]
+[2026.10.27-21.27.51:386][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/torch_lit/texture" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/torch_lit/texture.uasset" SILENT=true
+[2026.10.27-21.27.51:393][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/torch_lit/texture
+[2026.10.27-21.27.51:393][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/textureD1AA8FF44C10DE2086B731A16E610AB7.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/torch_lit/texture.uasset'
+[2026.10.27-21.27.51:394][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/axe/tools] ([1] browsable assets)...
+[2026.10.27-21.27.51:394][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/axe/tools]
+[2026.10.27-21.27.51:394][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/axe/tools" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/axe/tools.uasset" SILENT=true
+[2026.10.27-21.27.51:402][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/axe/tools
+[2026.10.27-21.27.51:402][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/toolsBF5909BF4087101223DA4886FEA55201.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/axe/tools.uasset'
+[2026.10.27-21.27.51:402][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/journal_open/tools] ([1] browsable assets)...
+[2026.10.27-21.27.51:402][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/journal_open/tools]
+[2026.10.27-21.27.51:402][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/journal_open/tools" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/journal_open/tools.uasset" SILENT=true
+[2026.10.27-21.27.51:409][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/journal_open/tools
+[2026.10.27-21.27.51:409][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/tools5CC9773A4179B21BC0ED9BABBA724EC1.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/journal_open/tools.uasset'
+[2026.10.27-21.27.51:411][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/pickaxe/tools] ([1] browsable assets)...
+[2026.10.27-21.27.51:411][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/pickaxe/tools]
+[2026.10.27-21.27.51:411][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/pickaxe/tools" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/pickaxe/tools.uasset" SILENT=true
+[2026.10.27-21.27.51:418][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/pickaxe/tools
+[2026.10.27-21.27.51:418][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/tools655AF18B42E2378932C588ACEB616BE8.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/pickaxe/tools.uasset'
+[2026.10.27-21.27.51:419][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/axe/tools_bits_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:419][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/axe/tools_bits_texture]
+[2026.10.27-21.27.51:419][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/axe/tools_bits_texture" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/axe/tools_bits_texture.uasset" SILENT=true
+[2026.10.27-21.27.51:431][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/axe/tools_bits_texture
+[2026.10.27-21.27.51:431][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/tools_bits_textureDA5032C9471794747C018F814E950C4D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/axe/tools_bits_texture.uasset'
+[2026.10.27-21.27.51:431][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/journal_open/tools_bits_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:431][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/journal_open/tools_bits_texture]
+[2026.10.27-21.27.51:442][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/journal_open/tools_bits_texture
+[2026.10.27-21.27.51:442][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/tools_bits_texture219AC2BA40F2D803920675801CA61D98.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/journal_open/tools_bits_texture.uasset'
+[2026.10.27-21.27.51:443][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/pickaxe/tools_bits_texture] ([1] browsable assets)...
+[2026.10.27-21.27.51:443][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/pickaxe/tools_bits_texture]
+[2026.10.27-21.27.51:454][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/pickaxe/tools_bits_texture
+[2026.10.27-21.27.51:454][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/tools_bits_texture30751EE042935DBB1904388565F0ED30.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/pickaxe/tools_bits_texture.uasset'
+[2026.10.27-21.27.51:455][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/torch_lit/torch_lit] ([1] browsable assets)...
+[2026.10.27-21.27.51:455][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/torch_lit/torch_lit]
+[2026.10.27-21.27.51:455][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KAYKIT/torch_lit/torch_lit" FILE="../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/torch_lit/torch_lit.uasset" SILENT=true
+[2026.10.27-21.27.51:463][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/torch_lit/torch_lit
+[2026.10.27-21.27.51:463][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/torch_lit41600B864F5E179F8EB23FBB92741AAA.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/torch_lit/torch_lit.uasset'
+[2026.10.27-21.27.51:464][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/tower-round-build-a/tower-round-build-a] ([1] browsable assets)...
+[2026.10.27-21.27.51:464][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/tower-round-build-a/tower-round-build-a]
+[2026.10.27-21.27.51:472][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/tower-round-build-a/tower-round-build-a
+[2026.10.27-21.27.51:472][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/tower-round-build-aE2BCE27B47BBCC8A220CF8BE2D50B343.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/tower-round-build-a/tower-round-build-a.uasset'
+[2026.10.27-21.27.51:474][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/tower-round-build-f/tower-round-build-f] ([1] browsable assets)...
+[2026.10.27-21.27.51:474][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/tower-round-build-f/tower-round-build-f]
+[2026.10.27-21.27.51:483][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/tower-round-build-f/tower-round-build-f
+[2026.10.27-21.27.51:483][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/tower-round-build-fA6E6B8C64747F1EA85E7309F99D30254.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/tower-round-build-f/tower-round-build-f.uasset'
+[2026.10.27-21.27.51:484][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wood-structure-high-part/wood-structure-high-part] ([1] browsable assets)...
+[2026.10.27-21.27.51:484][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wood-structure-high-part/wood-structure-high-part]
+[2026.10.27-21.27.51:492][586]LogSavePackage: Moving output files for package: /Game/KAYKIT/wood-structure-high-part/wood-structure-high-part
+[2026.10.27-21.27.51:492][586]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/wood-structure-high-part2196BD6C48DCC4ED51120F86D089BBBF.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/KAYKIT/wood-structure-high-part/wood-structure-high-part.uasset'
+[2026.10.27-21.27.51:504][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 986.641 ms (total: 2.32 sec)
+[2026.10.27-21.27.51:527][586]LogStall: Shutdown...
+[2026.10.27-21.27.51:527][586]LogStall: Shutdown complete.
+[2026.10.27-21.27.51:559][586]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.51:559][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.51:618][586]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.51:618][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.51:627][586]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.51:627][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.51:696][586]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.51:696][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.51:787][586]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.51:787][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.51:865][586]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.51:865][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.51:951][586]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.51:951][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:018][586]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:018][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:027][586]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:027][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:101][586]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:101][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:131][586]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.10.27-21.27.52:141][586]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:141][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:187][586]LogSlate: Window 'tp1_LAURENT - Unreal Editor' being destroyed
+[2026.10.27-21.27.52:408][586]LogContentValidation: Display: Starting to validate 65 assets
+[2026.10.27-21.27.52:408][586]LogContentValidation: Enabled validators:
+[2026.10.27-21.27.52:408][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.27-21.27.52:408][586]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.27-21.27.52:408][586]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.27-21.27.52:408][586]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.27-21.27.52:408][586]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.27-21.27.52:408][586]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.27-21.27.52:408][586]AssetCheck: /Game/KAYKIT/Ballista_Bolt/Ballista_Bolt Validating asset
+[2026.10.27-21.27.52:408][586]AssetCheck: /Game/KAYKIT/Barbarian/Barbarian_PhysicsAsset Validating asset
+[2026.10.27-21.27.52:408][586]AssetCheck: /Game/KAYKIT/Barbarian/Barbarian_Skeleton_PoseAsset Validating asset
+[2026.10.27-21.27.52:408][586]AssetCheck: /Game/KAYKIT/Fuel_A_Barrel_Dirty/Fuel_A_Barrel_Dirty Validating asset
+[2026.10.27-21.27.52:408][586]AssetCheck: /Game/KAYKIT/Gold_Bars_Stack_Small/Gold_Bars_Stack_Small Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Gold_Nugget_Medium/Gold_Nugget_Medium Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Knight/Knight1 Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Knight/Knight_PhysicsAsset Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Knight/Knight_Skeleton Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Ballista_Bolt/M_Bolt_Binding Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Ballista_Bolt/M_Bolt_Fletching Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Ballista_Bolt/M_Steel Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Ballista_Bolt/M_Wood Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Mage/Mage_PhysicsAsset Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Mage/Mage_Skeleton Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Rogue/Rogue1 Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Rogue_Hooded/Rogue_Hooded Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_PhysicsAsset Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Rogue_Hooded/Rogue_Hooded_Skeleton Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Rogue/Rogue_PhysicsAsset Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Rogue/Rogue_Skeleton_Sequence Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Knight/StaticMesh Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Mage/StaticMesh Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Rogue_Hooded/StaticMesh Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Tree_3_A_Color1/Tree_3_A_Color1 Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/axe/axe Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Barbarian/barbarian Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/Barbarian/barbarian_texture Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/tower-round-build-a/colormap Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/tower-round-build-f/colormap Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/wood-structure-high-part/colormap Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/tower-round-build-a/colormap1 Validating asset
+[2026.10.27-21.27.52:409][586]AssetCheck: /Game/KAYKIT/tower-round-build-f/colormap1 Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/wood-structure-high-part/colormap1 Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/torch_lit/dungeon_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Tree_3_A_Color1/forest Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Tree_3_A_Color1/forest_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Tree_3_A_Color1/forest_texture_Mat Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/journal_open/journal_open Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Knight/knight Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Knight/knight_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Mage/mage Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Mage/mage_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/pickaxe/pickaxe Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Fuel_A_Barrel_Dirty/resource Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Gold_Bars_Stack_Small/resource Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Gold_Nugget_Medium/resource Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Fuel_A_Barrel_Dirty/resource_bits_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Gold_Bars_Stack_Small/resource_bits_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Gold_Nugget_Medium/resource_bits_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Rogue/rogue Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Rogue_Hooded/rogue Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Rogue/rogue_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/Rogue_Hooded/rogue_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/torch_lit/texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/axe/tools Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/journal_open/tools Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/pickaxe/tools Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/axe/tools_bits_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/journal_open/tools_bits_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/pickaxe/tools_bits_texture Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/torch_lit/torch_lit Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/tower-round-build-a/tower-round-build-a Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/tower-round-build-f/tower-round-build-f Validating asset
+[2026.10.27-21.27.52:411][586]AssetCheck: /Game/KAYKIT/wood-structure-high-part/wood-structure-high-part Validating asset
+[2026.10.27-21.27.52:478][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.10.27-21.27.52:536][586]Cmd: QUIT_EDITOR
+[2026.10.27-21.27.52:536][586]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.10.27-21.27.52:538][586]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/SourceControl/UncontrolledChangelists.json
+[2026.10.27-21.27.52:545][587]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.10.27-21.27.52:545][587]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.10.27-21.27.52:547][587]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.10.27-21.27.52:551][587]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:551][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:559][587]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.10.27-21.27.52:559][587]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.10.27-21.27.52:559][587]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.10.27-21.27.52:569][587]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:569][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:572][587]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:572][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:574][587]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:574][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:575][587]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:575][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:577][587]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:577][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:578][587]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:578][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:580][587]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:580][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:581][587]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:581][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:583][587]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:583][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:584][587]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:584][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:584][587]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:584][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:586][587]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:586][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:587][587]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:587][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:589][587]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:589][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:591][587]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:591][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:591][587]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.10.27-21.27.52:591][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.27-21.27.52:594][587]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.10.27-21.27.52:594][587]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.10.27-21.27.52:603][587]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.10.27-21.27.52:681][587]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.10.27-21.27.52:681][587]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.27-21.27.52:681][587]LogAudio: Display: Audio Device unregistered from world 'Lvl_tp1_lvl'.
+[2026.10.27-21.27.52:681][587]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.10.27-21.27.52:681][587]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.10.27-21.27.52:684][587]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.10.27-21.27.52:693][587]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.10.27-21.27.52:693][587]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.27-21.27.52:694][587]LogWindowsTextInputMethodSystem: Activated input method: Français (Canada) - (Keyboard).
+[2026.10.27-21.27.52:696][587]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.10.27-21.27.52:698][587]LogExit: Preparing to exit.
+[2026.10.27-21.27.52:730][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.52:735][587]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.10.27-21.27.53:314][587]LogEditorDataStorage: Deinitializing
+[2026.10.27-21.27.53:425][587]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.10.27-21.27.53:442][587]LogExit: Editor shut down
+[2026.10.27-21.27.53:444][587]LogExit: Transaction tracking system shut down
+[2026.10.27-21.27.53:608][587]LogExit: Object subsystem successfully closed.
+[2026.10.27-21.27.53:688][587]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.10.27-21.27.53:839][587]LogMemoryProfiler: Shutdown
+[2026.10.27-21.27.53:839][587]LogNetworkingProfiler: Shutdown
+[2026.10.27-21.27.53:839][587]LoadingProfiler: Shutdown
+[2026.10.27-21.27.53:839][587]LogTimingProfiler: Shutdown
+[2026.10.27-21.27.53:839][587]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.10.27-21.27.53:839][587]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.10.27-21.27.54:222][587]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.10.27-21.27.54:239][587]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.10.27-21.27.54:239][587]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B70BA4BA4-4D4E-87AE-46BB-C096DD24E781%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=613899e4075f413da3d689ddb2d441f2%7C9def055ea9144120a1771bdfdf5e59ee%7C55db7da0-8efe-491f-94a7-0df70aea4150&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.10.27-21.27.54:803][587]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.10.27-21.27.54:814][587]LogNFORDenoise: NFORDenoise function shutting down
+[2026.10.27-21.27.54:814][587]RenderDocPlugin: plugin has been unloaded.
+[2026.10.27-21.27.54:815][587]LogXGEController: Cleaning working directory: C:/Users/6383488/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.10.27-21.27.54:818][587]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.10.27-21.27.54:818][587]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.10.27-21.27.54:818][587]LogPakFile: Destroying PakPlatformFile
+[2026.10.27-21.27.55:304][587]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.10.27-21.27.55:377][587]LogExit: Exiting.
+[2026.10.27-21.27.55:393][587]Log file closed, 10/27/26 17:27:55
