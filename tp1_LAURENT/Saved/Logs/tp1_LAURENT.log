@@ -3344,3 +3344,219 @@ Le répertoire du projet :
 [2026.11.03-20.53.21:827][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6706.475586
 [2026.11.03-20.53.22:829][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.03-20.53.22:829][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6707.142578, Update Interval: 312.453369
+[2026.11.03-20.53.38:202][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.11.03-20.53.38:270][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto7
+[2026.11.03-20.53.38:270][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl_Auto7BF7E70474497FA6D070AB7B683588D16.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto7.umap'
+[2026.11.03-20.53.38:271][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_tp1_lvl' took 0.090
+[2026.11.03-20.53.38:271][372]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2026.11.03-20.53.38:271][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/keg/dungeon_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:271][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/keg/dungeon_texture]
+[2026.11.03-20.53.38:285][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/keg/dungeon_texture_Auto7
+[2026.11.03-20.53.38:285][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture_Auto760C885BD4F59740EDE38E1BC406FB29F.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/keg/dungeon_texture_Auto7.uasset'
+[2026.11.03-20.53.38:286][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/keg/texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:286][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/keg/texture]
+[2026.11.03-20.53.38:299][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/keg/texture_Auto7
+[2026.11.03-20.53.38:299][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/texture_Auto72904390349778A26C24A73B7DD1EACAA.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/keg/texture_Auto7.uasset'
+[2026.11.03-20.53.38:300][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/keg/keg] ([1] browsable assets)...
+[2026.11.03-20.53.38:300][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/keg/keg]
+[2026.11.03-20.53.38:308][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/keg/keg_Auto7
+[2026.11.03-20.53.38:308][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/keg_Auto77449EB7B46DE91B6651C5E9C1631757A.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/keg/keg_Auto7.uasset'
+[2026.11.03-20.53.38:310][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/keg_decorated/dungeon_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:310][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/keg_decorated/dungeon_texture]
+[2026.11.03-20.53.38:319][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/keg_decorated/dungeon_texture_Auto7
+[2026.11.03-20.53.38:319][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture_Auto7AD3D724F4C5546FE87A342B94B54A954.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/keg_decorated/dungeon_texture_Auto7.uasset'
+[2026.11.03-20.53.38:320][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/keg_decorated/texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:322][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/keg_decorated/texture]
+[2026.11.03-20.53.38:329][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/keg_decorated/texture_Auto7
+[2026.11.03-20.53.38:329][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/texture_Auto7EB3A363145AAE8F4E0C6F3A3480D2BFF.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/keg_decorated/texture_Auto7.uasset'
+[2026.11.03-20.53.38:330][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/keg_decorated/keg_decorated] ([1] browsable assets)...
+[2026.11.03-20.53.38:330][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/keg_decorated/keg_decorated]
+[2026.11.03-20.53.38:337][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/keg_decorated/keg_decorated_Auto7
+[2026.11.03-20.53.38:338][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/keg_decorated_Auto77BA0B7A94733F3808EAE848548E6E270.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/keg_decorated/keg_decorated_Auto7.uasset'
+[2026.11.03-20.53.38:338][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rock_1_A_Color1/forest_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:338][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rock_1_A_Color1/forest_texture]
+[2026.11.03-20.53.38:347][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/Rock_1_A_Color1/forest_texture_Auto7
+[2026.11.03-20.53.38:347][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/forest_texture_Auto78AD844AA423663F0EBE82D8D5CB99B5C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/Rock_1_A_Color1/forest_texture_Auto7.uasset'
+[2026.11.03-20.53.38:348][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rock_1_A_Color1/forest] ([1] browsable assets)...
+[2026.11.03-20.53.38:348][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rock_1_A_Color1/forest]
+[2026.11.03-20.53.38:355][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/Rock_1_A_Color1/forest_Auto7
+[2026.11.03-20.53.38:355][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/forest_Auto708E91FCB409714DEC9CFA292097AF98B.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/Rock_1_A_Color1/forest_Auto7.uasset'
+[2026.11.03-20.53.38:356][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rock_1_A_Color1/Rock_1_A_Color1] ([1] browsable assets)...
+[2026.11.03-20.53.38:356][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rock_1_A_Color1/Rock_1_A_Color1]
+[2026.11.03-20.53.38:363][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/Rock_1_A_Color1/Rock_1_A_Color1_Auto7
+[2026.11.03-20.53.38:363][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rock_1_A_Color1_Auto73AC74D3042BC66E63222FB8154F0C4E7.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/Rock_1_A_Color1/Rock_1_A_Color1_Auto7.uasset'
+[2026.11.03-20.53.38:364][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rock_3_I_Color1/forest_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:364][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rock_3_I_Color1/forest_texture]
+[2026.11.03-20.53.38:372][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/Rock_3_I_Color1/forest_texture_Auto7
+[2026.11.03-20.53.38:372][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/forest_texture_Auto701E653984F9853815E9D2AA8BEBB253D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/Rock_3_I_Color1/forest_texture_Auto7.uasset'
+[2026.11.03-20.53.38:373][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rock_3_I_Color1/forest] ([1] browsable assets)...
+[2026.11.03-20.53.38:373][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rock_3_I_Color1/forest]
+[2026.11.03-20.53.38:379][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/Rock_3_I_Color1/forest_Auto7
+[2026.11.03-20.53.38:379][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/forest_Auto7F278FF3041148B3DEB1C4ABBBD4FE326.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/Rock_3_I_Color1/forest_Auto7.uasset'
+[2026.11.03-20.53.38:380][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/Rock_3_I_Color1/Rock_3_I_Color1] ([1] browsable assets)...
+[2026.11.03-20.53.38:382][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/Rock_3_I_Color1/Rock_3_I_Color1]
+[2026.11.03-20.53.38:389][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/Rock_3_I_Color1/Rock_3_I_Color1_Auto7
+[2026.11.03-20.53.38:389][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Rock_3_I_Color1_Auto75B2E079B43103A1ECE76DF989ABBB1E1.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/Rock_3_I_Color1/Rock_3_I_Color1_Auto7.uasset'
+[2026.11.03-20.53.38:390][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/sword_2handed/knight_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:390][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/sword_2handed/knight_texture]
+[2026.11.03-20.53.38:399][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/sword_2handed/knight_texture_Auto7
+[2026.11.03-20.53.38:399][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/knight_texture_Auto775E185D444F32F0DE4DA26AA83E6F477.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/sword_2handed/knight_texture_Auto7.uasset'
+[2026.11.03-20.53.38:400][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/sword_2handed/knight] ([1] browsable assets)...
+[2026.11.03-20.53.38:400][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/sword_2handed/knight]
+[2026.11.03-20.53.38:407][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/sword_2handed/knight_Auto7
+[2026.11.03-20.53.38:407][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/knight_Auto786190C914EBF0437026459AD0E45FB76.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/sword_2handed/knight_Auto7.uasset'
+[2026.11.03-20.53.38:408][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/sword_2handed/sword_2handed] ([1] browsable assets)...
+[2026.11.03-20.53.38:408][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/sword_2handed/sword_2handed]
+[2026.11.03-20.53.38:415][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/sword_2handed/sword_2handed_Auto7
+[2026.11.03-20.53.38:415][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/sword_2handed_Auto7D80067B940FC5813B9B4B2AAF2BCCB35.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/sword_2handed/sword_2handed_Auto7.uasset'
+[2026.11.03-20.53.38:416][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall/dungeon_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:416][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall/dungeon_texture]
+[2026.11.03-20.53.38:425][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall/dungeon_texture_Auto7
+[2026.11.03-20.53.38:425][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture_Auto7B2A2442D4C1077206AED1DB7541BEF6E.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall/dungeon_texture_Auto7.uasset'
+[2026.11.03-20.53.38:426][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall/texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:426][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall/texture]
+[2026.11.03-20.53.38:434][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall/texture_Auto7
+[2026.11.03-20.53.38:434][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/texture_Auto7CF15F20144FE67F8EB5E1EB807FE1F33.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall/texture_Auto7.uasset'
+[2026.11.03-20.53.38:436][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall/wall] ([1] browsable assets)...
+[2026.11.03-20.53.38:436][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall/wall]
+[2026.11.03-20.53.38:443][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall/wall_Auto7
+[2026.11.03-20.53.38:443][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/wall_Auto7DCDD7D30432EF58D9BF5C9AA0887B846.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall/wall_Auto7.uasset'
+[2026.11.03-20.53.38:444][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall_window_open/dungeon_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:444][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall_window_open/dungeon_texture]
+[2026.11.03-20.53.38:454][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall_window_open/dungeon_texture_Auto7
+[2026.11.03-20.53.38:454][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture_Auto7B26134574E48D848C02D03B93FE9CA10.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall_window_open/dungeon_texture_Auto7.uasset'
+[2026.11.03-20.53.38:454][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall_window_open/texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:454][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall_window_open/texture]
+[2026.11.03-20.53.38:462][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall_window_open/texture_Auto7
+[2026.11.03-20.53.38:462][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/texture_Auto7FC37CBFF482E31C40E3FE4A66B60613D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall_window_open/texture_Auto7.uasset'
+[2026.11.03-20.53.38:462][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall_window_open/wall_window_open] ([1] browsable assets)...
+[2026.11.03-20.53.38:462][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall_window_open/wall_window_open]
+[2026.11.03-20.53.38:470][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall_window_open/wall_window_open_Auto7
+[2026.11.03-20.53.38:470][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/wall_window_open_Auto708852C594D1E6E71F62074B8D5395173.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall_window_open/wall_window_open_Auto7.uasset'
+[2026.11.03-20.53.38:470][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall_doorway_scaffold/dungeon_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:470][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall_doorway_scaffold/dungeon_texture]
+[2026.11.03-20.53.38:480][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall_doorway_scaffold/dungeon_texture_Auto7
+[2026.11.03-20.53.38:480][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture_Auto7C18C122642F723ABF63A07B817BB170C.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall_doorway_scaffold/dungeon_texture_Auto7.uasset'
+[2026.11.03-20.53.38:481][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall_doorway_scaffold/texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:481][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall_doorway_scaffold/texture]
+[2026.11.03-20.53.38:488][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall_doorway_scaffold/texture_Auto7
+[2026.11.03-20.53.38:488][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/texture_Auto7EC5E1705473EE0B1270130AD6F9CAA77.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall_doorway_scaffold/texture_Auto7.uasset'
+[2026.11.03-20.53.38:489][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold_door] ([1] browsable assets)...
+[2026.11.03-20.53.38:489][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold_door]
+[2026.11.03-20.53.38:499][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold_door_Auto7
+[2026.11.03-20.53.38:499][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/wall_doorway_scaffold_door_Auto7E424BE2148B7955365F6928164872858.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold_door_Auto7.uasset'
+[2026.11.03-20.53.38:500][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold] ([1] browsable assets)...
+[2026.11.03-20.53.38:500][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold]
+[2026.11.03-20.53.38:509][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold_Auto7
+[2026.11.03-20.53.38:509][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/wall_doorway_scaffold_Auto7743962814289BEF02704388C7F0ED2EA.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/wall_doorway_scaffold/wall_doorway_scaffold_Auto7.uasset'
+[2026.11.03-20.53.38:511][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/stool/dungeon_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:511][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/stool/dungeon_texture]
+[2026.11.03-20.53.38:520][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/stool/dungeon_texture_Auto7
+[2026.11.03-20.53.38:520][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture_Auto7F7F250374BDEDFC02E7274B83AD15C76.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/stool/dungeon_texture_Auto7.uasset'
+[2026.11.03-20.53.38:522][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/stool/texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:522][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/stool/texture]
+[2026.11.03-20.53.38:528][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/stool/texture_Auto7
+[2026.11.03-20.53.38:528][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/texture_Auto75FBD9658454CB49A9281A3A53AFFA974.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/stool/texture_Auto7.uasset'
+[2026.11.03-20.53.38:529][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/stool/stool] ([1] browsable assets)...
+[2026.11.03-20.53.38:529][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/stool/stool]
+[2026.11.03-20.53.38:535][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/stool/stool_Auto7
+[2026.11.03-20.53.38:535][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/stool_Auto7E522F305443F692265A61787E4CE7BCC.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/stool/stool_Auto7.uasset'
+[2026.11.03-20.53.38:536][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/ceiling_tile/dungeon_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:536][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/ceiling_tile/dungeon_texture]
+[2026.11.03-20.53.38:545][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/ceiling_tile/dungeon_texture_Auto7
+[2026.11.03-20.53.38:545][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/dungeon_texture_Auto716D0E00347651373C5E738925E15683B.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/ceiling_tile/dungeon_texture_Auto7.uasset'
+[2026.11.03-20.53.38:546][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/ceiling_tile/texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:546][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/ceiling_tile/texture]
+[2026.11.03-20.53.38:553][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/ceiling_tile/texture_Auto7
+[2026.11.03-20.53.38:553][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/texture_Auto7CE5E663A46BC50674A1D02B4921EACAF.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/ceiling_tile/texture_Auto7.uasset'
+[2026.11.03-20.53.38:554][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/ceiling_tile/ceiling_tile] ([1] browsable assets)...
+[2026.11.03-20.53.38:554][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/ceiling_tile/ceiling_tile]
+[2026.11.03-20.53.38:563][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/ceiling_tile/ceiling_tile_Auto7
+[2026.11.03-20.53.38:563][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/ceiling_tile_Auto723E7185D40B3098DCABF32AB0140BCB6.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/ceiling_tile/ceiling_tile_Auto7.uasset'
+[2026.11.03-20.53.38:564][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/crossbow_2handed/rogue_texture] ([1] browsable assets)...
+[2026.11.03-20.53.38:564][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/crossbow_2handed/rogue_texture]
+[2026.11.03-20.53.38:573][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/crossbow_2handed/rogue_texture_Auto7
+[2026.11.03-20.53.38:573][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/rogue_texture_Auto787548E8149FC5AC9FBE0439036F3654F.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/crossbow_2handed/rogue_texture_Auto7.uasset'
+[2026.11.03-20.53.38:574][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/crossbow_2handed/rogue] ([1] browsable assets)...
+[2026.11.03-20.53.38:574][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/crossbow_2handed/rogue]
+[2026.11.03-20.53.38:581][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/crossbow_2handed/rogue_Auto7
+[2026.11.03-20.53.38:582][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/rogue_Auto7F2376E1B4F0ECA36624745843953751A.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/crossbow_2handed/rogue_Auto7.uasset'
+[2026.11.03-20.53.38:583][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/crossbow_2handed/crossbow_2handed] ([1] browsable assets)...
+[2026.11.03-20.53.38:583][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/crossbow_2handed/crossbow_2handed]
+[2026.11.03-20.53.38:591][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/crossbow_2handed/crossbow_2handed_Auto7
+[2026.11.03-20.53.38:591][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/crossbow_2handed_Auto7CD62E2D947F6387D7EE2DE8346CBFBC5.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/crossbow_2handed/crossbow_2handed_Auto7.uasset'
+[2026.11.03-20.53.38:592][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/artifact_gltf/Gold] ([1] browsable assets)...
+[2026.11.03-20.53.38:592][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/artifact_gltf/Gold]
+[2026.11.03-20.53.38:598][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/artifact_gltf/Gold_Auto7
+[2026.11.03-20.53.38:598][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Gold_Auto74DAAE20A46303326D6DB1CAEF95CF1C3.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/artifact_gltf/Gold_Auto7.uasset'
+[2026.11.03-20.53.38:599][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/artifact_gltf/Red] ([1] browsable assets)...
+[2026.11.03-20.53.38:599][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/artifact_gltf/Red]
+[2026.11.03-20.53.38:606][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/artifact_gltf/Red_Auto7
+[2026.11.03-20.53.38:606][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Red_Auto7EE28A31F41522052F595DE81C5BB240D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/artifact_gltf/Red_Auto7.uasset'
+[2026.11.03-20.53.38:607][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/artifact_gltf/artifact_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:607][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/artifact_gltf/artifact_gltf]
+[2026.11.03-20.53.38:614][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/artifact_gltf/artifact_gltf_Auto7
+[2026.11.03-20.53.38:615][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/artifact_gltf_Auto76AD0A59947FCEBA86BA56CB3B857B2FC.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/artifact_gltf/artifact_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:615][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/weaponRack_gltf/BrownDark] ([1] browsable assets)...
+[2026.11.03-20.53.38:615][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/weaponRack_gltf/BrownDark]
+[2026.11.03-20.53.38:623][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/weaponRack_gltf/BrownDark_Auto7
+[2026.11.03-20.53.38:623][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/BrownDark_Auto721840BF94E97A66F04242B88AB5B7610.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/weaponRack_gltf/BrownDark_Auto7.uasset'
+[2026.11.03-20.53.38:625][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/weaponRack_gltf/weaponRack_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:625][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/weaponRack_gltf/weaponRack_gltf]
+[2026.11.03-20.53.38:633][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/weaponRack_gltf/weaponRack_gltf_Auto7
+[2026.11.03-20.53.38:633][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/weaponRack_gltf_Auto76029F08048923E1646AF7FB56F5704A6.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/weaponRack_gltf/weaponRack_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:635][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/scaffold_high_railing_gltf/WoodDark] ([1] browsable assets)...
+[2026.11.03-20.53.38:635][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_high_railing_gltf/WoodDark]
+[2026.11.03-20.53.38:642][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_high_railing_gltf/WoodDark_Auto7
+[2026.11.03-20.53.38:642][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/WoodDark_Auto7C5116B0A40B4266F09C01CB954C4E10F.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_high_railing_gltf/WoodDark_Auto7.uasset'
+[2026.11.03-20.53.38:642][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/scaffold_high_railing_gltf/scaffold_high_railing_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:642][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_high_railing_gltf/scaffold_high_railing_gltf]
+[2026.11.03-20.53.38:650][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_high_railing_gltf/scaffold_high_railing_gltf_Auto7
+[2026.11.03-20.53.38:650][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/scaffold_high_railing_gltf_Auto77DBB51BB4D03F1816267A6AE955F93DC.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_high_railing_gltf/scaffold_high_railing_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:650][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/scaffold_high_cornerBoth_gltf/WoodDark] ([1] browsable assets)...
+[2026.11.03-20.53.38:650][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_high_cornerBoth_gltf/WoodDark]
+[2026.11.03-20.53.38:658][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_high_cornerBoth_gltf/WoodDark_Auto7
+[2026.11.03-20.53.38:658][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/WoodDark_Auto7594334A74E242E6C4DCCAB9EF5DB7885.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_high_cornerBoth_gltf/WoodDark_Auto7.uasset'
+[2026.11.03-20.53.38:659][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/scaffold_high_cornerBoth_gltf/scaffold_high_cornerBoth_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:659][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_high_cornerBoth_gltf/scaffold_high_cornerBoth_gltf]
+[2026.11.03-20.53.38:665][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_high_cornerBoth_gltf/scaffold_high_cornerBoth_gltf_Auto7
+[2026.11.03-20.53.38:665][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/scaffold_high_cornerBoth_gltf_Au22FF66414595648A203118B6BFF1F5F7.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_high_cornerBoth_gltf/scaffold_high_cornerBoth_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:666][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/scaffold_high_cornerRight_gltf/WoodDark] ([1] browsable assets)...
+[2026.11.03-20.53.38:666][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_high_cornerRight_gltf/WoodDark]
+[2026.11.03-20.53.38:674][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_high_cornerRight_gltf/WoodDark_Auto7
+[2026.11.03-20.53.38:674][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/WoodDark_Auto7881D122247F6F51BBB2BA6A551D3CC7D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_high_cornerRight_gltf/WoodDark_Auto7.uasset'
+[2026.11.03-20.53.38:676][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/KAYKIT/scaffold_high_cornerRight_gltf/scaffold_high_cornerRight_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:676][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_high_cornerRight_gltf/scaffold_high_cornerRight_gltf]
+[2026.11.03-20.53.38:682][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_high_cornerRight_gltf/scaffold_high_cornerRight_gltf_Auto7
+[2026.11.03-20.53.38:682][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/scaffold_high_cornerRight_gltf_A48814819464E0C7E7AED1B876712D78B.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_high_cornerRight_gltf/scaffold_high_cornerRight_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:683][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KAYKIT/scaffold_small_low_gltf/WoodDark] ([1] browsable assets)...
+[2026.11.03-20.53.38:858][372]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/KAYKIT/scaffold_small_low_gltf/WoodDark.WoodDark]
+[2026.11.03-20.53.38:858][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_small_low_gltf/WoodDark]
+[2026.11.03-20.53.38:869][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_small_low_gltf/WoodDark_Auto7
+[2026.11.03-20.53.38:869][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/WoodDark_Auto792E2A50E4B8167ADD348E59B8DFDBBA1.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_small_low_gltf/WoodDark_Auto7.uasset'
+[2026.11.03-20.53.38:870][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KAYKIT/scaffold_small_low_gltf/scaffold_small_low_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:884][372]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KAYKIT/scaffold_small_low_gltf/scaffold_small_low_gltf.scaffold_small_low_gltf]
+[2026.11.03-20.53.38:884][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_small_low_gltf/scaffold_small_low_gltf]
+[2026.11.03-20.53.38:892][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_small_low_gltf/scaffold_small_low_gltf_Auto7
+[2026.11.03-20.53.38:892][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/scaffold_small_low_gltf_Auto7BF6D86534F478B676D67D38F0FE99F81.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_small_low_gltf/scaffold_small_low_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:893][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KAYKIT/scaffold_small_low_railing_gltf/WoodDark] ([1] browsable assets)...
+[2026.11.03-20.53.38:904][372]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/KAYKIT/scaffold_small_low_railing_gltf/WoodDark.WoodDark]
+[2026.11.03-20.53.38:904][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_small_low_railing_gltf/WoodDark]
+[2026.11.03-20.53.38:911][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_small_low_railing_gltf/WoodDark_Auto7
+[2026.11.03-20.53.38:911][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/WoodDark_Auto72C664A8C4D0A32EC6EDD79B368D4CD7A.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_small_low_railing_gltf/WoodDark_Auto7.uasset'
+[2026.11.03-20.53.38:912][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KAYKIT/scaffold_small_low_railing_gltf/scaffold_small_low_railing_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:924][372]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KAYKIT/scaffold_small_low_railing_gltf/scaffold_small_low_railing_gltf.scaffold_small_low_railing_gltf]
+[2026.11.03-20.53.38:924][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_small_low_railing_gltf/scaffold_small_low_railing_gltf]
+[2026.11.03-20.53.38:932][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_small_low_railing_gltf/scaffold_small_low_railing_gltf_Auto7
+[2026.11.03-20.53.38:932][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/scaffold_small_low_railing_gltf_EBF8A86542EA04D44069E79A2E88A007.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_small_low_railing_gltf/scaffold_small_low_railing_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:933][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KAYKIT/scaffold_low_railing_gltf/WoodDark] ([1] browsable assets)...
+[2026.11.03-20.53.38:943][372]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/KAYKIT/scaffold_low_railing_gltf/WoodDark.WoodDark]
+[2026.11.03-20.53.38:943][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_low_railing_gltf/WoodDark]
+[2026.11.03-20.53.38:950][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_low_railing_gltf/WoodDark_Auto7
+[2026.11.03-20.53.38:950][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/WoodDark_Auto7F7D46B9C4D301C156A0B18AE877FB4E2.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_low_railing_gltf/WoodDark_Auto7.uasset'
+[2026.11.03-20.53.38:952][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/KAYKIT/scaffold_low_railing_gltf/scaffold_low_railing_gltf] ([1] browsable assets)...
+[2026.11.03-20.53.38:959][372]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/KAYKIT/scaffold_low_railing_gltf/scaffold_low_railing_gltf.scaffold_low_railing_gltf]
+[2026.11.03-20.53.38:959][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/KAYKIT/scaffold_low_railing_gltf/scaffold_low_railing_gltf]
+[2026.11.03-20.53.38:966][372]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/KAYKIT/scaffold_low_railing_gltf/scaffold_low_railing_gltf_Auto7
+[2026.11.03-20.53.38:967][372]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/scaffold_low_railing_gltf_Auto7AF8ACE3C435F56427216F8ADF190EB59.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/KAYKIT/scaffold_low_railing_gltf/scaffold_low_railing_gltf_Auto7.uasset'
+[2026.11.03-20.53.38:967][372]LogFileHelpers: Auto-saving content packages took 0.697
