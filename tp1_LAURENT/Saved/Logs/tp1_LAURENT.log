@@ -2776,3 +2776,1433 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.06-20.56.59:389][467]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2026.11.06-20.56.59:389][467]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2026.11.06-20.56.59:389][467]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-20.57.10:444][647]LogDerivedDataCache: C:/Users/6383488/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.06-20.57.12:471][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.11.06-20.57.29:543][791]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.11.06-20.57.29:543][791]LogEditor: Attempting to add actor of class 'CameraRig_Rail' to level at 2840.00,1370.00,1060.00
+[2026.11.06-20.57.30:958][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.11.06-20.57.30:962][943]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.11.06-20.57.30:965][943]LogEditor: Attempting to add actor of class 'CameraRig_Rail' to level at 2860.00,1350.00,1050.00
+[2026.11.06-20.59.49:504][434]LogShaderCompilers: Display: ================================================
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Total job queries 18 402, among them cache hits 2 810 (15.27%), DDC hits 12 341 (67.06%), Duplicates 2 613 (14.20%)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Tracking 12 979 distinct input hashes that result in 11 886 distinct outputs (91.58%)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: RAM used: 158,67 MiB of 1,60 GiB budget. Usage: 9.68%
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Shaders Compiled: 638
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Jobs assigned 638, completed 638 (100%)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Average time worker was idle: 3.30 s
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Time job spent in pending queue: average 2.41 s, longest 17.12 s
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Job execution time: average 3.12 s, max 17.79 s
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Job life time (pending + execution): average 5.54 s, max 21.38
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Shader code size: total 9,958 MiB, numShaders 666, average 15,312 KiB, min 2,246 KiB, max 55,505 KiB
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.26 s
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.78%
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Jobs were issued in 219 batches (only local compilation was used), average 2.91 jobs/batch
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Average processing rate: 12.95 jobs/sec
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Total thread time: 384,764 s
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Total thread preprocess time: 126,821 s
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Percentage time preprocessing: 32.96%
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Effective parallelization: 7.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.781100
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.08 sec, max 3.89 sec, min 0.53 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 1.77 sec, max 1.83 sec, min 1.72 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 1.66 sec, max 1.91 sec, min 1.30 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 1.60 sec, max 3.45 sec, min 0.70 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 1.54 sec, max 1.59 sec, min 1.50 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 34.41% of total time (compiled   80 times, average 1.66 sec, max 1.91 sec, min 1.30 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 8.66% of total time (compiled   16 times, average 2.08 sec, max 3.89 sec, min 0.53 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.08% of total time (compiled   27 times, average 0.72 sec, max 1.89 sec, min 0.44 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.38% of total time (compiled   52 times, average 0.32 sec, max 1.52 sec, min 0.16 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 4.17% of total time (compiled   10 times, average 1.60 sec, max 3.45 sec, min 0.70 sec)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: === Material stats ===
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Materials Translated:    155
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.11.06-20.59.49:505][434]LogShaderCompilers: Display: ================================================
+[2026.11.06-21.01.02:036][988]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -6780.00,1250.00,1960.00
+[2026.11.06-21.01.06:735][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.11.06-21.01.06:755][540]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2026.11.06-21.01.06:762][540]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -6880.00,1130.00,1830.00
+[2026.11.06-21.01.06:777][540]LogStreaming: Display: FlushAsyncLoading(398): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.06-21.01.06:949][543]LogPSOHitching: Encountered 350 PSO creation hitches so far (98 graphics, 252 compute). 0 of them were precached.
+[2026.11.06-21.02.06:325][830]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 366.256500
+[2026.11.06-21.02.06:391][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-21.02.06:391][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 366.312500, Update Interval: 358.057190
+[2026.11.06-21.02.33:513][809]LogStatusBar: Looking status bar with open content browser drawer...
+[2026.11.06-21.02.33:513][809]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: ================================================
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Total job queries 18 411, among them cache hits 2 814 (15.28%), DDC hits 12 345 (67.05%), Duplicates 2 613 (14.19%)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Tracking 12 984 distinct input hashes that result in 11 890 distinct outputs (91.57%)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: RAM used: 158,70 MiB of 1,60 GiB budget. Usage: 9.69%
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Shaders Compiled: 639
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Jobs assigned 639, completed 639 (100%)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Average time worker was idle: 4.64 s
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Time job spent in pending queue: average 2.41 s, longest 17.12 s
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Job execution time: average 3.12 s, max 17.79 s
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Job life time (pending + execution): average 5.53 s, max 21.38
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Shader code size: total 9,969 MiB, numShaders 667, average 15,305 KiB, min 2,246 KiB, max 55,505 KiB
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.13 s
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.77%
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Jobs were issued in 220 batches (only local compilation was used), average 2.90 jobs/batch
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Average processing rate: 12.75 jobs/sec
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Total thread time: 385,403 s
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Total thread preprocess time: 126,899 s
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Percentage time preprocessing: 32.93%
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Effective parallelization: 7.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.768734
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.08 sec, max 3.89 sec, min 0.53 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 1.77 sec, max 1.83 sec, min 1.72 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 1.66 sec, max 1.91 sec, min 1.30 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 1.60 sec, max 3.45 sec, min 0.70 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 1.54 sec, max 1.59 sec, min 1.50 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 34.36% of total time (compiled   80 times, average 1.66 sec, max 1.91 sec, min 1.30 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 8.65% of total time (compiled   16 times, average 2.08 sec, max 3.89 sec, min 0.53 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.24% of total time (compiled   28 times, average 0.72 sec, max 1.89 sec, min 0.44 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.37% of total time (compiled   52 times, average 0.32 sec, max 1.52 sec, min 0.16 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 4.16% of total time (compiled   10 times, average 1.60 sec, max 3.45 sec, min 0.70 sec)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: === Material stats ===
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Materials Translated:    156
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.11.06-21.02.49:702][307]LogShaderCompilers: Display: ================================================
+[2026.11.06-21.05.44:470][998]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.11.06-21.05.44:479][998]LogContentBrowser: Creating deferred item: NewFolder
+[2026.11.06-21.05.44:494][999]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.11.06-21.05.46:405][185]LogContentBrowser: Attempting asset rename: NewFolder -> cinematic
+[2026.11.06-21.05.46:405][185]LogContentBrowser: End creating deferred item NewFolder
+[2026.11.06-21.05.50:342][581]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2026.11.06-21.05.50:351][581]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2026.11.06-21.05.50:387][583]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2026.11.06-21.05.56:354][171]LogContentBrowser: Attempting asset rename: NewLevelSequence -> ls_sequence
+[2026.11.06-21.05.56:357][171]LogContentBrowser: End creating deferred item NewLevelSequence
+[2026.11.06-21.06.01:241][641]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/cinematic/ls_sequence.ls_sequence
+[2026.11.06-21.06.01:241][641]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/cinematic/ls_sequence.ls_sequence
+[2026.11.06-21.06.01:246][641]LogActorFactory: Actor Factory spawned LevelSequence /Game/cinematic/ls_sequence.ls_sequence as actor: LevelSequenceActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.LevelSequenceActor_0
+[2026.11.06-21.06.01:246][641]LogActorFactory: Actor Factory spawned LevelSequence /Game/cinematic/ls_sequence.ls_sequence as actor: LevelSequenceActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.LevelSequenceActor_0
+[2026.11.06-21.06.01:433][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.11.06-21.06.01:434][654]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.11.06-21.06.01:437][654]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/cinematic/ls_sequence.ls_sequence
+[2026.11.06-21.06.01:437][654]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/cinematic/ls_sequence.ls_sequence
+[2026.11.06-21.06.01:439][654]LogActorFactory: Actor Factory spawned LevelSequence /Game/cinematic/ls_sequence.ls_sequence as actor: LevelSequenceActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.LevelSequenceActor_1
+[2026.11.06-21.06.01:439][654]LogActorFactory: Actor Factory spawned LevelSequence /Game/cinematic/ls_sequence.ls_sequence as actor: LevelSequenceActor /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.LevelSequenceActor_1
+[2026.11.06-21.06.04:156][939]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/cinematic/ls_sequence.ls_sequence
+[2026.11.06-21.06.04:282][939]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.11.06-21.06.04:282][939]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.11.06-21.06.04:300][939]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.11.06-21.06.04:316][939]LogStreaming: Display: FlushAsyncLoading(399): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.06-21.07.05:045][931]Cmd: TRANSACTION UNDO
+[2026.11.06-21.07.05:048][931]LogEditorTransaction: Undo Ne rien sélectionner
+[2026.11.06-21.07.05:692][955]Cmd: TRANSACTION UNDO
+[2026.11.06-21.07.05:692][955]LogEditorTransaction: Undo Posséder un objet dans Sequencer
+[2026.11.06-21.07.13:521][801]Cmd: TRANSACTION UNDO
+[2026.11.06-21.07.13:521][801]LogEditorTransaction: Undo Posséder un objet dans Sequencer
+[2026.11.06-21.07.36:043][929]Cmd: TRANSACTION UNDO
+[2026.11.06-21.07.36:044][929]LogEditorTransaction: Undo Dissocier les acteurs
+[2026.11.06-21.07.41:827][430]Cmd: TRANSACTION UNDO
+[2026.11.06-21.07.41:827][430]LogEditorTransaction: Undo Clic sur les acteurs
+[2026.11.06-21.07.47:302][929]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/Camera/CameraActor.h 
+[2026.11.06-21.07.47:469][929]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.6/Engine/Source/Runtime/Engine/Classes/Camera/CameraActor.h : 42
+[2026.11.06-21.07.47:469][929]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:476][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:478][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:479][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:481][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:482][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:488][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:488][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:488][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:488][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:493][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:496][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:496][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:496][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:496][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:506][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:506][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:506][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:506][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:506][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:506][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:509][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:509][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:509][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:509][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:516][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:516][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:516][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:519][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:519][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:519][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:519][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:519][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:519][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:519][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:521][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:522][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:524][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:525][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:527][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:531][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:531][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:533][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:533][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:535][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:538][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:540][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:540][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:540][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:549][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:549][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:549][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:549][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:549][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:550][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:552][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:552][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:552][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:552][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:556][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:556][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:558][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:566][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:568][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:569][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:570][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:572][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:578][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:578][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:578][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:578][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:583][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:586][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:586][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:586][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:586][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:595][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:595][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:595][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:595][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:595][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:596][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:598][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:598][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:599][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:599][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:604][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:605][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:605][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:607][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:607][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:607][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:607][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:607][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:608][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:610][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:611][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:613][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:614][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:619][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:619][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:620][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:620][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:623][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:626][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:626][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:628][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:628][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:637][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:637][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:637][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:637][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:637][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:637][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:639][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:639][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:641][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:641][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:645][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:645][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.07.47:645][929]LogVSAccessor: Warning: Couldn't access module table
+[2026.11.06-21.08.06:860][645]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 726.815857
+[2026.11.06-21.08.06:959][656]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-21.08.06:959][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 726.905762, Update Interval: 324.031494
+[2026.11.06-21.08.31:862][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.11.06-21.08.31:930][280]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1
+[2026.11.06-21.08.31:930][280]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl_Auto1A39528A44778163B30642FB24E9EB9D5.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/ThirdPerson/Lvl_tp1_lvl_Auto1.umap'
+[2026.11.06-21.08.31:933][280]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_tp1_lvl' took 0.106
+[2026.11.06-21.08.31:935][280]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2026.11.06-21.08.31:935][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/cinematic/ls_sequence] ([1] browsable assets)...
+[2026.11.06-21.08.31:935][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/cinematic/ls_sequence]
+[2026.11.06-21.08.31:943][280]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/cinematic/ls_sequence_Auto1
+[2026.11.06-21.08.31:943][280]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/ls_sequence_Auto1E93A8324476512F8AACF3DBF8EB45E7D.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Autosaves/Game/cinematic/ls_sequence_Auto1.uasset'
+[2026.11.06-21.08.31:943][280]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.11.06-21.13.37:101][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1057.079712
+[2026.11.06-21.13.37:176][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-21.13.37:176][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1057.148071, Update Interval: 318.245178
+[2026.11.06-21.16.24:071][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.06-21.16.24:149][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.11.06-21.16.24:211][643]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.11.06-21.16.24:211][643]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl5AC0EAC04CA7E04BB0496C93F8EDECD1.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.11.06-21.16.24:222][643]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.114
+[2026.11.06-21.16.24:233][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.145 ms
+[2026.11.06-21.16.24:278][643]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.06-21.16.24:278][643]LogContentValidation: Enabled validators:
+[2026.11.06-21.16.24:278][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.06-21.16.24:278][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.06-21.16.24:278][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.06-21.16.24:278][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.06-21.16.24:278][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.06-21.16.24:278][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.06-21.16.24:279][643]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.11.06-21.16.25:123][740]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.11.06-21.16.25:132][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.06-21.16.25:140][740]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.11.06-21.16.25:142][740]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.11.06-21.16.25:142][740]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.11.06-21.16.25:164][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:164][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:164][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:164][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:164][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:164][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:174][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032909s)
+[2026.11.06-21.16.25:174][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl to /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl (0.033071s)
+[2026.11.06-21.16.25:193][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.11.06-21.16.25:195][740]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_tp1_lvl
+[2026.11.06-21.16.25:198][740]LogPlayLevel: PIE: World Init took: (0.002274s)
+[2026.11.06-21.16.25:198][740]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.11.06-21.16.25:198][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.06-21.16.25:198][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.06-21.16.25:198][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.06-21.16.25:198][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.06-21.16.25:198][740]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.06-21.16.25:198][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.06-21.16.25:198][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.06-21.16.25:198][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.06-21.16.25:198][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.06-21.16.25:198][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.06-21.16.25:198][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.06-21.16.25:201][740]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.06-21.16.25:216][740]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2026.11.06-21.16.25:216][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.06-21.16.25:216][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.06-21.16.25:216][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.06-21.16.25:216][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.11.06-21.16.25:216][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.11.06-21.16.25:218][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.11.06-21.16.25:218][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.11.06-21.16.25:218][740]LogInit: FAudioDevice initialized with ID 2.
+[2026.11.06-21.16.25:218][740]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_tp1_lvl'.
+[2026.11.06-21.16.25:218][740]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.11.06-21.16.25:225][740]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.06-21.16.25:231][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:231][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:233][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:233][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:233][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:233][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:233][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:233][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:236][740]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl up for play (max tick rate 0) at 2026.11.06-16.16.25
+[2026.11.06-21.16.25:237][740]LogWorld: Bringing up level for play took: 0.012324
+[2026.11.06-21.16.25:240][740]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.11.06-21.16.25:282][740]PIE: Serveur connecté
+[2026.11.06-21.16.25:283][740]PIE: Play in Editor : temps total de démarrage 0,156 secondes.
+[2026.11.06-21.16.25:321][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:321][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:321][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:321][740]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.16.25:356][741]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.06-21.16.26:796][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.06-21.16.26:796][895]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.11.06-21.16.26:798][895]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-21.16.26:801][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-21.16.26:802][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.06-21.16.26:807][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-21.16.26:824][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.06-21.16.26:826][895]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.11.06-21.16.26:826][895]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.11.06-21.16.26:829][895]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.11.06-21.16.26:840][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.11.06-21.16.26:880][896]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.11.06-21.16.44:578][974]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.11.06-21.16.45:162][ 31]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl:PersistentLevel.Lvl_tp1_lvl
+[2026.11.06-21.16.45:162][ 31]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.11.06-21.16.45:225][ 31]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.06-21.16.47:215][ 31]LogSlate: Took 0.007321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.11.06-21.17.48:458][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.11.06-21.17.49:235][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.06-21.17.49:309][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.11.06-21.17.49:372][179]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.11.06-21.17.49:372][179]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl57BD682A4F059A0A8972AC85738F84E5.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.11.06-21.17.49:380][179]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.108
+[2026.11.06-21.17.49:390][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.149 ms (total: 317.294 ms)
+[2026.11.06-21.17.49:432][179]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.06-21.17.49:432][179]LogContentValidation: Enabled validators:
+[2026.11.06-21.17.49:432][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.06-21.17.49:432][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.06-21.17.49:432][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.06-21.17.49:432][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.06-21.17.49:432][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.06-21.17.49:432][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.06-21.17.49:432][179]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.11.06-21.17.49:655][202]LogShaderCompilers: Display: ================================================
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Total job queries 18 454, among them cache hits 2 828 (15.32%), DDC hits 12 351 (66.93%), Duplicates 2 613 (14.16%)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Tracking 13 013 distinct input hashes that result in 11 906 distinct outputs (91.49%)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: RAM used: 158,87 MiB of 1,60 GiB budget. Usage: 9.70%
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Shaders Compiled: 662
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Jobs assigned 662, completed 662 (100%)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Average time worker was idle: 52.74 s
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Time job spent in pending queue: average 2.34 s, longest 17.12 s
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Job execution time: average 3.03 s, max 17.79 s
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Job life time (pending + execution): average 5.37 s, max 21.38
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Shader code size: total 10,236 MiB, numShaders 690, average 15,191 KiB, min 2,246 KiB, max 55,505 KiB
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 55.01 s
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.77%
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Jobs were issued in 243 batches (only local compilation was used), average 2.72 jobs/batch
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Average processing rate: 12.03 jobs/sec
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Total thread time: 397,448 s
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Total thread preprocess time: 127,34 s
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Percentage time preprocessing: 32.04%
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Effective parallelization: 7.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.722484
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.08 sec, max 3.89 sec, min 0.53 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 1.77 sec, max 1.83 sec, min 1.72 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 1.66 sec, max 1.91 sec, min 1.30 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 1.60 sec, max 3.45 sec, min 0.70 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 1.54 sec, max 1.59 sec, min 1.50 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 33.31% of total time (compiled   80 times, average 1.66 sec, max 1.91 sec, min 1.30 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 8.39% of total time (compiled   16 times, average 2.08 sec, max 3.89 sec, min 0.53 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.25% of total time (compiled   29 times, average 0.72 sec, max 1.89 sec, min 0.44 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.03% of total time (compiled   56 times, average 0.36 sec, max 1.83 sec, min 0.16 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 4.03% of total time (compiled   10 times, average 1.60 sec, max 3.45 sec, min 0.70 sec)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: === Material stats ===
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Materials Translated:    156
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.11.06-21.17.49:656][202]LogShaderCompilers: Display: ================================================
+[2026.11.06-21.18.20:050][159]LogSlate: Took 0.007163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.11.06-21.19.08:514][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1388.518311
+[2026.11.06-21.19.08:615][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-21.19.08:615][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1388.607056, Update Interval: 353.028961
+[2026.11.06-21.25.31:472][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1771.505493
+[2026.11.06-21.25.31:541][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.06-21.25.31:541][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1771.563843, Update Interval: 303.460785
+[2026.11.06-21.26.40:548][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.11.06-21.26.41:159][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.06-21.26.41:222][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.11.06-21.26.41:290][289]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.11.06-21.26.41:291][289]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvlA014488E49FC77554AF17BB18A0F61C6.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.11.06-21.26.41:299][289]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.118
+[2026.11.06-21.26.41:311][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.133 ms (total: 469.428 ms)
+[2026.11.06-21.26.41:355][289]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.06-21.26.41:355][289]LogContentValidation: Enabled validators:
+[2026.11.06-21.26.41:355][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.06-21.26.41:355][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.06-21.26.41:355][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.06-21.26.41:355][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.06-21.26.41:355][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.06-21.26.41:355][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.06-21.26.41:355][289]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.11.06-21.28.27:145][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.11.06-21.28.28:096][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.06-21.28.28:171][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.06-21.28.28:234][ 63]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.11.06-21.28.28:234][ 63]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvlA7D7092644B8CBF0363C1DBDCB33302B.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.11.06-21.28.28:246][ 63]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.116
+[2026.11.06-21.28.28:254][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.969 ms (total: 627.397 ms)
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: Enabled validators:
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.06-21.28.28:298][ 63]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.06-21.28.28:300][ 63]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.11.06-21.28.29:997][245]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.11.06-21.28.30:001][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.06-21.28.30:037][245]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.11.06-21.28.30:055][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:055][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:055][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:055][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:055][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:055][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:069][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033227s)
+[2026.11.06-21.28.30:069][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl to /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl (0.033274s)
+[2026.11.06-21.28.30:096][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.11.06-21.28.30:098][245]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_tp1_lvl
+[2026.11.06-21.28.30:099][245]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2026.11.06-21.28.30:101][245]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.11.06-21.28.30:101][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.06-21.28.30:101][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.06-21.28.30:101][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.06-21.28.30:101][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.06-21.28.30:101][245]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.06-21.28.30:101][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.06-21.28.30:101][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.06-21.28.30:101][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.06-21.28.30:101][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.06-21.28.30:101][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.06-21.28.30:101][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.06-21.28.30:104][245]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.06-21.28.30:116][245]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2026.11.06-21.28.30:116][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.06-21.28.30:116][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.06-21.28.30:116][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.06-21.28.30:117][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.11.06-21.28.30:117][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.11.06-21.28.30:119][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.11.06-21.28.30:119][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.11.06-21.28.30:119][245]LogInit: FAudioDevice initialized with ID 3.
+[2026.11.06-21.28.30:119][245]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_tp1_lvl'.
+[2026.11.06-21.28.30:119][245]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.11.06-21.28.30:122][245]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:129][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:132][245]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl up for play (max tick rate 0) at 2026.11.06-16.28.30
+[2026.11.06-21.28.30:132][245]LogWorld: Bringing up level for play took: 0.010080
+[2026.11.06-21.28.30:135][245]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.11.06-21.28.30:139][245]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2026.11.06-21.28.30:141][245]LogMovieScene: Starting new camera cut: 'CineCameraActor_1'
+[2026.11.06-21.28.30:141][245]PIE: Serveur connecté
+[2026.11.06-21.28.30:144][245]PIE: Play in Editor : temps total de démarrage 0,142 secondes.
+[2026.11.06-21.28.30:149][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:149][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:149][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:149][245]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.28.30:179][246]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.06-21.28.39:598][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.06-21.28.39:598][365]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.11.06-21.28.39:598][365]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-21.28.39:601][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-21.28.39:604][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.06-21.28.39:609][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-21.28.39:637][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.06-21.28.39:639][365]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.11.06-21.28.39:639][365]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.11.06-21.28.39:640][365]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.11.06-21.28.39:643][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.06-21.28.39:648][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.06-21.28.39:690][366]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.11.06-21.30.02:010][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.06-21.30.02:089][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.11.06-21.30.02:155][515]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.11.06-21.30.02:156][515]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl346E1D504EBA3D9692459AA6F45CE6D8.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.11.06-21.30.02:165][515]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.118
+[2026.11.06-21.30.02:177][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.395 ms (total: 792.793 ms)
+[2026.11.06-21.30.02:216][515]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.06-21.30.02:216][515]LogContentValidation: Enabled validators:
+[2026.11.06-21.30.02:216][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.06-21.30.02:216][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.06-21.30.02:216][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.06-21.30.02:216][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.06-21.30.02:216][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.06-21.30.02:216][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.06-21.30.02:216][515]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.11.06-21.30.02:607][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.11.06-21.30.03:366][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.06-21.30.03:448][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.11.06-21.30.03:514][604]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_tp1_lvl
+[2026.11.06-21.30.03:515][604]LogSavePackage: Moving '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Saved/Lvl_tp1_lvl5E8DA44940E63FC59C33ADB6290FBD97.tmp' to '../../../../../../Users/6383488/Documents/GitHub/tp1_LAURENT_/tp1_LAURENT/Content/ThirdPerson/Lvl_tp1_lvl.umap'
+[2026.11.06-21.30.03:524][604]LogFileHelpers: Saving map 'Lvl_tp1_lvl' took 0.117
+[2026.11.06-21.30.03:536][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.467 ms (total: 962.260 ms)
+[2026.11.06-21.30.03:575][604]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.06-21.30.03:575][604]LogContentValidation: Enabled validators:
+[2026.11.06-21.30.03:575][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.06-21.30.03:575][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.06-21.30.03:575][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.06-21.30.03:575][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.06-21.30.03:575][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.06-21.30.03:575][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.06-21.30.03:576][604]AssetCheck: /Game/ThirdPerson/Lvl_tp1_lvl Validation de la ressource
+[2026.11.06-21.30.04:968][742]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.11.06-21.30.04:975][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.06-21.30.05:001][742]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.11.06-21.30.05:020][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:020][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:020][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:020][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:020][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:020][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:031][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030187s)
+[2026.11.06-21.30.05:031][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl to /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl (0.030237s)
+[2026.11.06-21.30.05:057][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.06-21.30.05:058][742]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_tp1_lvl
+[2026.11.06-21.30.05:060][742]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2026.11.06-21.30.05:061][742]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.11.06-21.30.05:061][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.06-21.30.05:061][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.06-21.30.05:061][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.06-21.30.05:061][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.06-21.30.05:061][742]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.06-21.30.05:061][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.06-21.30.05:061][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.06-21.30.05:061][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.06-21.30.05:061][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.06-21.30.05:061][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.06-21.30.05:061][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.06-21.30.05:063][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.06-21.30.05:075][742]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2026.11.06-21.30.05:075][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.06-21.30.05:075][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.06-21.30.05:075][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.06-21.30.05:076][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.11.06-21.30.05:076][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.11.06-21.30.05:078][742]LogInit: FAudioDevice initialized with ID 4.
+[2026.11.06-21.30.05:078][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.11.06-21.30.05:078][742]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_tp1_lvl'.
+[2026.11.06-21.30.05:078][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.11.06-21.30.05:078][742]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.06-21.30.05:081][742]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:087][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:090][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:091][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:091][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:091][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:091][742]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl up for play (max tick rate 0) at 2026.11.06-16.30.05
+[2026.11.06-21.30.05:091][742]LogWorld: Bringing up level for play took: 0.011135
+[2026.11.06-21.30.05:094][742]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.11.06-21.30.05:097][742]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2026.11.06-21.30.05:097][742]LogMovieScene: Starting new camera cut: 'CineCameraActor_1'
+[2026.11.06-21.30.05:099][742]PIE: Serveur connecté
+[2026.11.06-21.30.05:101][742]PIE: Play in Editor : temps total de démarrage 0,127 secondes.
+[2026.11.06-21.30.05:107][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:107][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:107][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:107][742]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.05:138][743]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.11.06-21.30.12:712][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.06-21.30.12:712][642]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.11.06-21.30.12:712][642]LogWorld: UWorld::CleanupWorld for Lvl_tp1_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.11.06-21.30.12:715][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-21.30.12:717][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.06-21.30.12:723][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.06-21.30.12:749][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.06-21.30.12:751][642]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.11.06-21.30.12:751][642]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.11.06-21.30.12:752][642]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.11.06-21.30.12:760][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.11.06-21.30.12:805][643]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.11.06-21.30.13:992][779]LogDebuggerCommands: Repeating last play command: Hublot sélectionné
+[2026.11.06-21.30.13:998][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.06-21.30.14:031][779]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl
+[2026.11.06-21.30.14:051][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:051][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:051][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:051][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:051][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:051][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:061][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030641s)
+[2026.11.06-21.30.14:061][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_tp1_lvl.Lvl_tp1_lvl to /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl (0.030687s)
+[2026.11.06-21.30.14:090][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.11.06-21.30.14:093][779]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_tp1_lvl
+[2026.11.06-21.30.14:095][779]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2026.11.06-21.30.14:095][779]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.11.06-21.30.14:095][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.06-21.30.14:095][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.06-21.30.14:095][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.06-21.30.14:095][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.06-21.30.14:095][779]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.06-21.30.14:095][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.06-21.30.14:095][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.06-21.30.14:095][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.06-21.30.14:095][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.06-21.30.14:095][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.06-21.30.14:095][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.06-21.30.14:096][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.06-21.30.14:107][779]LogAudioMixer: Display: Using Audio Hardware Device Casque (Oculus Virtual Audio Device)
+[2026.11.06-21.30.14:107][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.06-21.30.14:107][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.06-21.30.14:107][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.06-21.30.14:107][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.11.06-21.30.14:107][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.11.06-21.30.14:109][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.11.06-21.30.14:109][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.11.06-21.30.14:109][779]LogInit: FAudioDevice initialized with ID 5.
+[2026.11.06-21.30.14:109][779]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_tp1_lvl'.
+[2026.11.06-21.30.14:109][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.11.06-21.30.14:111][779]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:117][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:122][779]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_tp1_lvl.Lvl_tp1_lvl up for play (max tick rate 0) at 2026.11.06-16.30.14
+[2026.11.06-21.30.14:123][779]LogWorld: Bringing up level for play took: 0.010311
+[2026.11.06-21.30.14:125][779]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.11.06-21.30.14:128][779]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2026.11.06-21.30.14:128][779]LogMovieScene: Starting new camera cut: 'CineCameraActor_1'
+[2026.11.06-21.30.14:129][779]PIE: Serveur connecté
+[2026.11.06-21.30.14:131][779]PIE: Play in Editor : temps total de démarrage 0,133 secondes.
+[2026.11.06-21.30.14:137][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:137][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:137][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:137][779]LogStaticMesh: Warning: Invalid material [glass] used on Nanite static mesh [lantern]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.11.06-21.30.14:165][780]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
